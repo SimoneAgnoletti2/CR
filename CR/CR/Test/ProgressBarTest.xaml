@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:progressBar="clr-namespace:Syncfusion.XForms.ProgressBar;assembly=Syncfusion.SfProgressBar.XForms"
+             x:Class="CR.Test.ProgressBarTest">
+    <ContentPage.Content>
+        <ContentView>
+
+            <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+
+
+                <Label Text="Normal" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar Progress="75"/>
+                <progressBar:SfCircularProgressBar Progress="75"/>
+
+
+                <Label Text="Enable Segments" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar SegmentCount="4" Progress="75"/>
+                <progressBar:SfCircularProgressBar SegmentCount="4" Progress="75"/>
+
+
+
+                <Label Text="Enable Indeterminate" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar IsIndeterminate="True"/>
+                <progressBar:SfCircularProgressBar IsIndeterminate="True"/>
+
+
+
+                <Label Text="Apply Color" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar Progress="75" TrackColor="#33ffbe06" ProgressColor="#FFffbe06"/>
+                <progressBar:SfLinearProgressBar Progress="75"  TrackColor="#3351483a" ProgressColor="#FF51483a"/>
+                <progressBar:SfCircularProgressBar Progress="75" TrackColor="#33c15244" ProgressColor="#FFc15244"/>
+                <progressBar:SfCircularProgressBar Progress="75" TrackColor="#3390a84e" ProgressColor="#FF90a84e"/>
+
+
+
+                <Label Text="Buffer" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar x:Name="LinearProgressBar22" Progress="25" SecondaryProgress="75"/>
+                <progressBar:SfLinearProgressBar x:Name="LinearProgressBar66" Minimum="0" Progress="0.5" Maximum="1"/>
+
+
+
+                <Label Text="Define Range" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfCircularProgressBar x:Name="CircularProgressBar12" Minimum="0" Progress="0.5" Maximum="1"/>
+
+
+                <Label Text="Custom Content" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfCircularProgressBar x:Name="CustomContentCircularProgressBar33" Progress="23" HorizontalOptions="Center" >
+
+                    <progressBar:SfCircularProgressBar.Content>
+
+                        <Grid>
+
+                            <Grid.RowDefinitions>
+
+                                <RowDefinition Height="3*"/>
+
+                                <RowDefinition Height="*"/>
+
+                            </Grid.RowDefinitions>
+
+                            <Label x:Name="CustomContentProgressBarLabel333" Grid.Row="0" TextColor="#007cee" Text="{Binding Progress,StringFormat='{0}%'}"  HorizontalTextAlignment="Center" VerticalTextAlignment="End">
+
+                            </Label>
+                            <Label Grid.Row="1" TextColor="#007cee" Text="used" VerticalOptions="Start" Margin="0,-5,0,0" HorizontalTextAlignment="Center" VerticalTextAlignment="Start">
+
+                            </Label>
+
+                        </Grid>
+
+                    </progressBar:SfCircularProgressBar.Content>
+
+                </progressBar:SfCircularProgressBar>
+
+
+
+
+
+
+                <Label Text="Segments" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar x:Name="LinearProgressBar55" Progress="25" SegmentCount="4" />
+                <progressBar:SfCircularProgressBar x:Name="CircularProgressBar444" Progress="25" SegmentCount="7" />
+
+
+
+
+                <Label Text="Gap Customization" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar x:Name="LinearProgressBar9999" Progress="25" SegmentCount="4" GapWidth="5" />
+                <progressBar:SfCircularProgressBar x:Name="CircularProgressBar89898" Progress="25" SegmentCount="7" GapWidth="10" />
+
+
+
+
+                <Label Text="Angle" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfCircularProgressBar x:Name="CircularProgressBar212121212" Progress="75" StartAngle="180" EndAngle="360" />
+
+
+
+
+                <Label Text="Range Color" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="100">
+
+                    <progressBar:SfLinearProgressBar.RangeColors>
+
+                        <progressBar:RangeColorCollection>
+
+                            <progressBar:RangeColor Color="#00bdaf" Start="0" End="25"/>
+
+                            <progressBar:RangeColor Color="#2f7ecc" Start="25" End="50"/>
+
+                            <progressBar:RangeColor Color="#e9648e" Start="50" End="75"/>
+
+                            <progressBar:RangeColor Color="#fbb78a" Start="75" End="100"/>
+
+                        </progressBar:RangeColorCollection>
+
+                    </progressBar:SfLinearProgressBar.RangeColors>
+
+                </progressBar:SfLinearProgressBar>
+
+
+                <Label Text="Thickness" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="100" TrackHeight="10" Padding="2">
+
+                </progressBar:SfLinearProgressBar>
+
+
+                <Label Text="Circular ProgressBar" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfCircularProgressBar x:Name="TrackOutsideProgressBar" Grid.Column="0" Grid.Row="0"
+                                   Progress="75" Margin="0,10,0,0" IndicatorOuterRadius="0.7" 
+                                   IndicatorInnerRadius="0.65" ShowProgressValue="False">
+                </progressBar:SfCircularProgressBar>
+
+                <Label Text="Corner Radius" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="50" TrackHeight="10" CornerRadius="10">
+
+
+
+                </progressBar:SfLinearProgressBar>
+
+
+
+                <Label Text="Corner Radius" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="75" TrackColor="#3351483a" ProgressColor="#FF51483a">
+
+                </progressBar:SfLinearProgressBar>
+
+
+                <Label Text="Corner Radius" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="25" SecondaryProgress="75" SecondaryProgressColor="CornflowerBlue"></progressBar:SfLinearProgressBar>
+
+
+
+
+
+                <Label Text="Esasing" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfLinearProgressBar Progress="75" EasingEffect="CubicInOut">
+
+                </progressBar:SfLinearProgressBar>
+
+
+                <Label Text="Value Changed" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                <progressBar:SfLinearProgressBar Progress="100" x:Name="LinearProgressBar" ValueChanged="ProgressBarBase_OnValueChanged">
+
+                </progressBar:SfLinearProgressBar>
+
+
+                <Label Text="Progress Completed" TextColor="Black"   FontSize="Large" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <progressBar:SfCircularProgressBar x:Name="CircularProgressBar0" Minimum="100" Maximum="500" Progress="500" ProgressCompleted="ProgressBarBase_OnProgressCompleted" >
+
+                    <progressBar:SfCircularProgressBar.Content>
+
+                        <Label Text="Start" FontSize="Medium" x:Name="Label222"></Label>
+
+                    </progressBar:SfCircularProgressBar.Content>
+
+                </progressBar:SfCircularProgressBar>
+
+
+
+
+            </ScrollView>
+
+        </ContentView>
+    </ContentPage.Content>
+</ContentPage>

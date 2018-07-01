@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{51C3786F-2418-4510-8B0F-7248EE390D4A}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CR.UWP</RootNamespace>
+    <AssemblyName>CR.UWP</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.14393.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>CR.UWP_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="project.json" />
+    <Content Include="CR.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Class\SQLliteAsync_UWP.cs" />
+    <Compile Include="Class\SQLlite_UWP.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="CR.UWP_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\arenas\arena0.png" />
+    <Content Include="Image\arenas\arena1.png" />
+    <Content Include="Image\arenas\arena10.png" />
+    <Content Include="Image\arenas\arena11.png" />
+    <Content Include="Image\arenas\arena12.png" />
+    <Content Include="Image\arenas\arena13.png" />
+    <Content Include="Image\arenas\arena14.png" />
+    <Content Include="Image\arenas\arena15.png" />
+    <Content Include="Image\arenas\arena16.png" />
+    <Content Include="Image\arenas\arena17.png" />
+    <Content Include="Image\arenas\arena18.png" />
+    <Content Include="Image\arenas\arena19.png" />
+    <Content Include="Image\arenas\arena2.png" />
+    <Content Include="Image\arenas\arena20.png" />
+    <Content Include="Image\arenas\arena21.png" />
+    <Content Include="Image\arenas\arena3.png" />
+    <Content Include="Image\arenas\arena4.png" />
+    <Content Include="Image\arenas\arena5.png" />
+    <Content Include="Image\arenas\arena6.png" />
+    <Content Include="Image\arenas\arena7.png" />
+    <Content Include="Image\arenas\arena8.png" />
+    <Content Include="Image\arenas\arena9.png" />
+    <Content Include="Image\arenas\league1.png" />
+    <Content Include="Image\arenas\league2.png" />
+    <Content Include="Image\arenas\league3.png" />
+    <Content Include="Image\arenas\league4.png" />
+    <Content Include="Image\arenas\league5.png" />
+    <Content Include="Image\arenas\league6.png" />
+    <Content Include="Image\arenas\league7.png" />
+    <Content Include="Image\arenas\league8.png" />
+    <Content Include="Image\arenas\league9.png" />
+    <Content Include="Image\badges\Arrow_01.png" />
+    <Content Include="Image\badges\Arrow_02.png" />
+    <Content Include="Image\badges\Arrow_03.png" />
+    <Content Include="Image\badges\Arrow_04.png" />
+    <Content Include="Image\badges\A_Char_Barbarian_01.png" />
+    <Content Include="Image\badges\A_Char_Barbarian_02.png" />
+    <Content Include="Image\badges\A_Char_Barbarian_03.png" />
+    <Content Include="Image\badges\A_Char_Bomb_01.png" />
+    <Content Include="Image\badges\A_Char_Bomb_02.png" />
+    <Content Include="Image\badges\A_Char_DarkPrince_01.png" />
+    <Content Include="Image\badges\A_Char_DarkPrince_02.png" />
+    <Content Include="Image\badges\A_Char_DarkPrince_03.png" />
+    <Content Include="Image\badges\A_Char_DarkPrince_04.png" />
+    <Content Include="Image\badges\A_Char_Goblin_01.png" />
+    <Content Include="Image\badges\A_Char_Goblin_02.png" />
+    <Content Include="Image\badges\A_Char_Hammer_01.png" />
+    <Content Include="Image\badges\A_Char_Hammer_02.png" />
+    <Content Include="Image\badges\A_Char_King_01.png" />
+    <Content Include="Image\badges\A_Char_King_02.png" />
+    <Content Include="Image\badges\A_Char_King_03.png" />
+    <Content Include="Image\badges\A_Char_King_04.png" />
+    <Content Include="Image\badges\A_Char_Knight_01.png" />
+    <Content Include="Image\badges\A_Char_Knight_02.png" />
+    <Content Include="Image\badges\A_Char_MiniPekka_01.png" />
+    <Content Include="Image\badges\A_Char_MiniPekka_02.png" />
+    <Content Include="Image\badges\A_Char_Pekka_01.png" />
+    <Content Include="Image\badges\A_Char_Pekka_02.png" />
+    <Content Include="Image\badges\A_Char_Prince_01.png" />
+    <Content Include="Image\badges\A_Char_Prince_02.png" />
+    <Content Include="Image\badges\A_Char_Prince_03.png" />
+    <Content Include="Image\badges\A_Char_Rocket_01.png" />
+    <Content Include="Image\badges\A_Char_Rocket_02.png" />
+    <Content Include="Image\badges\Bamboo_01.png" />
+    <Content Include="Image\badges\Bamboo_02.png" />
+    <Content Include="Image\badges\Bamboo_03.png" />
+    <Content Include="Image\badges\Bamboo_04.png" />
+    <Content Include="Image\badges\Bolt_01.png" />
+    <Content Include="Image\badges\Bolt_02.png" />
+    <Content Include="Image\badges\Bolt_03.png" />
+    <Content Include="Image\badges\Bolt_04.png" />
+    <Content Include="Image\badges\Cherry_Blossom_01.png" />
+    <Content Include="Image\badges\Cherry_Blossom_02.png" />
+    <Content Include="Image\badges\Cherry_Blossom_03.png" />
+    <Content Include="Image\badges\Cherry_Blossom_04.png" />
+    <Content Include="Image\badges\Cherry_Blossom_05.png" />
+    <Content Include="Image\badges\Cherry_Blossom_06.png" />
+    <Content Include="Image\badges\Cherry_Blossom_07.png" />
+    <Content Include="Image\badges\Cherry_Blossom_08.png" />
+    <Content Include="Image\badges\Clover_01.png" />
+    <Content Include="Image\badges\Clover_02.png" />
+    <Content Include="Image\badges\Coin_01.png" />
+    <Content Include="Image\badges\Coin_02.png" />
+    <Content Include="Image\badges\Coin_03.png" />
+    <Content Include="Image\badges\Coin_04.png" />
+    <Content Include="Image\badges\Crown_01.png" />
+    <Content Include="Image\badges\Crown_02.png" />
+    <Content Include="Image\badges\Crown_03.png" />
+    <Content Include="Image\badges\Crown_04.png" />
+    <Content Include="Image\badges\Diamond_01.png" />
+    <Content Include="Image\badges\Diamond_02.png" />
+    <Content Include="Image\badges\Diamond_03.png" />
+    <Content Include="Image\badges\Diamond_Star_01.png" />
+    <Content Include="Image\badges\Diamond_Star_02.png" />
+    <Content Include="Image\badges\Diamond_Star_03.png" />
+    <Content Include="Image\badges\Diamond_Star_04.png" />
+    <Content Include="Image\badges\Elixir_01.png" />
+    <Content Include="Image\badges\Elixir_02.png" />
+    <Content Include="Image\badges\Fan_01.png" />
+    <Content Include="Image\badges\Fan_02.png" />
+    <Content Include="Image\badges\Fan_03.png" />
+    <Content Include="Image\badges\Fan_04.png" />
+    <Content Include="Image\badges\flag_a_01.png" />
+    <Content Include="Image\badges\flag_a_02.png" />
+    <Content Include="Image\badges\flag_a_03.png" />
+    <Content Include="Image\badges\flag_b_01.png" />
+    <Content Include="Image\badges\flag_b_02.png" />
+    <Content Include="Image\badges\flag_b_03.png" />
+    <Content Include="Image\badges\flag_c_01.png" />
+    <Content Include="Image\badges\flag_c_02.png" />
+    <Content Include="Image\badges\flag_c_03.png" />
+    <Content Include="Image\badges\flag_c_04.png" />
+    <Content Include="Image\badges\flag_c_05.png" />
+    <Content Include="Image\badges\flag_c_06.png" />
+    <Content Include="Image\badges\flag_c_07.png" />
+    <Content Include="Image\badges\flag_c_08.png" />
+    <Content Include="Image\badges\flag_d_01.png" />
+    <Content Include="Image\badges\flag_d_02.png" />
+    <Content Include="Image\badges\flag_d_03.png" />
+    <Content Include="Image\badges\flag_d_04.png" />
+    <Content Include="Image\badges\flag_d_05.png" />
+    <Content Include="Image\badges\flag_d_06.png" />
+    <Content Include="Image\badges\flag_e_01.png" />
+    <Content Include="Image\badges\flag_e_02.png" />
+    <Content Include="Image\badges\flag_f_01.png" />
+    <Content Include="Image\badges\flag_f_02.png" />
+    <Content Include="Image\badges\flag_g_01.png" />
+    <Content Include="Image\badges\flag_g_02.png" />
+    <Content Include="Image\badges\flag_h_01.png" />
+    <Content Include="Image\badges\flag_h_02.png" />
+    <Content Include="Image\badges\flag_h_03.png" />
+    <Content Include="Image\badges\flag_h_04.png" />
+    <Content Include="Image\badges\flag_i_01.png" />
+    <Content Include="Image\badges\flag_i_02.png" />
+    <Content Include="Image\badges\flag_i_03.png" />
+    <Content Include="Image\badges\flag_j_01.png" />
+    <Content Include="Image\badges\flag_j_02.png" />
+    <Content Include="Image\badges\flag_j_03.png" />
+    <Content Include="Image\badges\flag_k_01.png" />
+    <Content Include="Image\badges\flag_k_02.png" />
+    <Content Include="Image\badges\flag_k_03.png" />
+    <Content Include="Image\badges\flag_k_04.png" />
+    <Content Include="Image\badges\flag_k_05.png" />
+    <Content Include="Image\badges\flag_k_06.png" />
+    <Content Include="Image\badges\flag_l_01.png" />
+    <Content Include="Image\badges\flag_l_02.png" />
+    <Content Include="Image\badges\flag_l_03.png" />
+    <Content Include="Image\badges\flag_m_01.png" />
+    <Content Include="Image\badges\flag_m_02.png" />
+    <Content Include="Image\badges\flag_m_03.png" />
+    <Content Include="Image\badges\flag_n_01.png" />
+    <Content Include="Image\badges\flag_n_02.png" />
+    <Content Include="Image\badges\flag_n_03.png" />
+    <Content Include="Image\badges\flag_n_04.png" />
+    <Content Include="Image\badges\flag_n_05.png" />
+    <Content Include="Image\badges\flag_n_06.png" />
+    <Content Include="Image\badges\Flame_01.png" />
+    <Content Include="Image\badges\Flame_02.png" />
+    <Content Include="Image\badges\Flame_03.png" />
+    <Content Include="Image\badges\Flame_04.png" />
+    <Content Include="Image\badges\Freeze_01.png" />
+    <Content Include="Image\badges\Freeze_02.png" />
+    <Content Include="Image\badges\Fugi_01.png" />
+    <Content Include="Image\badges\Fugi_02.png" />
+    <Content Include="Image\badges\Fugi_03.png" />
+    <Content Include="Image\badges\Fugi_04.png" />
+    <Content Include="Image\badges\Gem_01.png" />
+    <Content Include="Image\badges\Gem_02.png" />
+    <Content Include="Image\badges\Gem_03.png" />
+    <Content Include="Image\badges\Gem_04.png" />
+    <Content Include="Image\badges\Heart_01.png" />
+    <Content Include="Image\badges\Heart_02.png" />
+    <Content Include="Image\badges\Heart_03.png" />
+    <Content Include="Image\badges\Heart_04.png" />
+    <Content Include="Image\badges\Lotus_01.png" />
+    <Content Include="Image\badges\Lotus_02.png" />
+    <Content Include="Image\badges\Moon_01.png" />
+    <Content Include="Image\badges\Moon_02.png" />
+    <Content Include="Image\badges\Moon_03.png" />
+    <Content Include="Image\badges\NoClan.png" />
+    <Content Include="Image\badges\no_clan.png" />
+    <Content Include="Image\badges\Orange_01.png" />
+    <Content Include="Image\badges\Orange_02.png" />
+    <Content Include="Image\badges\Pine_01.png" />
+    <Content Include="Image\badges\Pine_02.png" />
+    <Content Include="Image\badges\Pine_03.png" />
+    <Content Include="Image\badges\Skull_01.png" />
+    <Content Include="Image\badges\Skull_02.png" />
+    <Content Include="Image\badges\Skull_03.png" />
+    <Content Include="Image\badges\Skull_04.png" />
+    <Content Include="Image\badges\Skull_05.png" />
+    <Content Include="Image\badges\Skull_06.png" />
+    <Content Include="Image\badges\Star_Shine_01.png" />
+    <Content Include="Image\badges\Star_Shine_02.png" />
+    <Content Include="Image\badges\Star_Shine_03.png" />
+    <Content Include="Image\badges\Sword_01.png" />
+    <Content Include="Image\badges\Sword_02.png" />
+    <Content Include="Image\badges\Sword_03.png" />
+    <Content Include="Image\badges\Sword_04.png" />
+    <Content Include="Image\badges\Tower_01.png" />
+    <Content Include="Image\badges\Tower_02.png" />
+    <Content Include="Image\badges\Tower_03.png" />
+    <Content Include="Image\badges\Tower_04.png" />
+    <Content Include="Image\badges\Traditional_Star_01.png" />
+    <Content Include="Image\badges\Traditional_Star_02.png" />
+    <Content Include="Image\badges\Traditional_Star_03.png" />
+    <Content Include="Image\badges\Traditional_Star_04.png" />
+    <Content Include="Image\badges\Traditional_Star_05.png" />
+    <Content Include="Image\badges\Traditional_Star_06.png" />
+    <Content Include="Image\badges\Twin_Peaks_01.png" />
+    <Content Include="Image\badges\Twin_Peaks_02.png" />
+    <Content Include="Image\badges\YingYang_01.png" />
+    <Content Include="Image\badges\YingYang_02.png" />
+    <Content Include="Image\cards\archers.png" />
+    <Content Include="Image\cards\arrows.png" />
+    <Content Include="Image\cards\baby-dragon.png" />
+    <Content Include="Image\cards\balloon.png" />
+    <Content Include="Image\cards\bandit.png" />
+    <Content Include="Image\cards\barbarian-barrel.png" />
+    <Content Include="Image\cards\barbarian-hut.png" />
+    <Content Include="Image\cards\barbarians.png" />
+    <Content Include="Image\cards\bats.png" />
+    <Content Include="Image\cards\battle-ram.png" />
+    <Content Include="Image\cards\bomb-tower.png" />
+    <Content Include="Image\cards\bomber.png" />
+    <Content Include="Image\cards\bowler.png" />
+    <Content Include="Image\cards\cannon-cart.png" />
+    <Content Include="Image\cards\cannon.png" />
+    <Content Include="Image\cards\clone.png" />
+    <Content Include="Image\cards\dark-prince.png" />
+    <Content Include="Image\cards\dart-goblin.png" />
+    <Content Include="Image\cards\electro-wizard.png" />
+    <Content Include="Image\cards\elite-barbarians.png" />
+    <Content Include="Image\cards\elixir-collector.png" />
+    <Content Include="Image\cards\executioner.png" />
+    <Content Include="Image\cards\fire-spirits.png" />
+    <Content Include="Image\cards\fireball.png" />
+    <Content Include="Image\cards\flying-machine.png" />
+    <Content Include="Image\cards\freeze.png" />
+    <Content Include="Image\cards\furnace.png" />
+    <Content Include="Image\cards\gems-0.png" />
+    <Content Include="Image\cards\gems-1.png" />
+    <Content Include="Image\cards\gems-2.png" />
+    <Content Include="Image\cards\gems-3.png" />
+    <Content Include="Image\cards\gems-4.png" />
+    <Content Include="Image\cards\gems-5.png" />
+    <Content Include="Image\cards\gems-6.png" />
+    <Content Include="Image\cards\gems.png" />
+    <Content Include="Image\cards\giant-skeleton.png" />
+    <Content Include="Image\cards\giant-snowball.png" />
+    <Content Include="Image\cards\giant.png" />
+    <Content Include="Image\cards\goblin-barrel.png" />
+    <Content Include="Image\cards\goblin-gang.png" />
+    <Content Include="Image\cards\goblin-hut.png" />
+    <Content Include="Image\cards\goblins.png" />
+    <Content Include="Image\cards\gold-0.png" />
+    <Content Include="Image\cards\gold-1.png" />
+    <Content Include="Image\cards\gold-2.png" />
+    <Content Include="Image\cards\gold-3.png" />
+    <Content Include="Image\cards\gold.png" />
+    <Content Include="Image\cards\golem.png" />
+    <Content Include="Image\cards\graveyard.png" />
+    <Content Include="Image\cards\guards.png" />
+    <Content Include="Image\cards\heal.png" />
+    <Content Include="Image\cards\hog-rider.png" />
+    <Content Include="Image\cards\hunter.png" />
+    <Content Include="Image\cards\ice-golem.png" />
+    <Content Include="Image\cards\ice-spirit.png" />
+    <Content Include="Image\cards\ice-wizard.png" />
+    <Content Include="Image\cards\inferno-dragon.png" />
+    <Content Include="Image\cards\inferno-tower.png" />
+    <Content Include="Image\cards\knight.png" />
+    <Content Include="Image\cards\lava-hound.png" />
+    <Content Include="Image\cards\lightning.png" />
+    <Content Include="Image\cards\lumberjack.png" />
+    <Content Include="Image\cards\magic-archer.png" />
+    <Content Include="Image\cards\mega-knight.png" />
+    <Content Include="Image\cards\mega-minion.png" />
+    <Content Include="Image\cards\miner.png" />
+    <Content Include="Image\cards\mini-pekka.png" />
+    <Content Include="Image\cards\minion-horde.png" />
+    <Content Include="Image\cards\minions.png" />
+    <Content Include="Image\cards\mirror.png" />
+    <Content Include="Image\cards\mortar.png" />
+    <Content Include="Image\cards\musketeer.png" />
+    <Content Include="Image\cards\night-witch.png" />
+    <Content Include="Image\cards\pekka.png" />
+    <Content Include="Image\cards\poison.png" />
+    <Content Include="Image\cards\prince.png" />
+    <Content Include="Image\cards\princess.png" />
+    <Content Include="Image\cards\rage.png" />
+    <Content Include="Image\cards\rascals.png" />
+    <Content Include="Image\cards\rocket.png" />
+    <Content Include="Image\cards\royal-ghost.png" />
+    <Content Include="Image\cards\royal-giant.png" />
+    <Content Include="Image\cards\royal-hogs.png" />
+    <Content Include="Image\cards\skeleton-army.png" />
+    <Content Include="Image\cards\skeleton-barrel.png" />
+    <Content Include="Image\cards\skeletons.png" />
+    <Content Include="Image\cards\soon.png" />
+    <Content Include="Image\cards\sparky.png" />
+    <Content Include="Image\cards\spear-goblins.png" />
+    <Content Include="Image\cards\tesla.png" />
+    <Content Include="Image\cards\the-log.png" />
+    <Content Include="Image\cards\three-musketeers.png" />
+    <Content Include="Image\cards\tombstone.png" />
+    <Content Include="Image\cards\tornado.png" />
+    <Content Include="Image\cards\valkyrie.png" />
+    <Content Include="Image\cards\witch.png" />
+    <Content Include="Image\cards\wizard.png" />
+    <Content Include="Image\cards\x-bow.png" />
+    <Content Include="Image\cards\xbow.png" />
+    <Content Include="Image\cards\zap.png" />
+    <Content Include="Image\cards\zappies.png" />
+    <Content Include="Image\chests2\clan-chest.png" />
+    <Content Include="Image\chests2\classic-challenge-chest.png" />
+    <Content Include="Image\chests2\crown-chest.png" />
+    <Content Include="Image\chests2\custom-tournament-chest.png" />
+    <Content Include="Image\chests2\custom-tournament-winner-chest.png" />
+    <Content Include="Image\chests2\draft-chest.png" />
+    <Content Include="Image\chests2\epic-chest.png" />
+    <Content Include="Image\chests2\fortune-chest.png" />
+    <Content Include="Image\chests2\giant-chest.png" />
+    <Content Include="Image\chests2\golden-chest.png" />
+    <Content Include="Image\chests2\grand-challenge-bronze-chest.png" />
+    <Content Include="Image\chests2\grand-challenge-gold-chest.png" />
+    <Content Include="Image\chests2\grand-challenge-silver-chest.png" />
+    <Content Include="Image\chests2\kings-chest.png" />
+    <Content Include="Image\chests2\legendary-chest.png" />
+    <Content Include="Image\chests2\legendary-kings-chest.png" />
+    <Content Include="Image\chests2\lightning-chest.png" />
+    <Content Include="Image\chests2\magical-chest.png" />
+    <Content Include="Image\chests2\silver-chest.png" />
+    <Content Include="Image\chests2\super-magical-chest.png" />
+    <Content Include="Image\chests2\wooden-chest.png" />
+    <Content Include="Image\chests\chest-draft.png" />
+    <Content Include="Image\chests\chest-epic.png" />
+    <Content Include="Image\chests\chest-fortune.png" />
+    <Content Include="Image\chests\chest-giant.png" />
+    <Content Include="Image\chests\chest-gold.png" />
+    <Content Include="Image\chests\chest-legendary.png" />
+    <Content Include="Image\chests\chest-legendarykings.png" />
+    <Content Include="Image\chests\chest-lightning.png" />
+    <Content Include="Image\chests\chest-magical.png" />
+    <Content Include="Image\chests\chest-silver.png" />
+    <Content Include="Image\chests\chest-supermagical.png" />
+    <Content Include="Image\chests\chest-wooden.png" />
+    <Content Include="Image\chests\ic-chest-epic.png" />
+    <Content Include="Image\chests\ic-chest-giant.png" />
+    <Content Include="Image\chests\ic-chest-gold.png" />
+    <Content Include="Image\chests\ic-chest-magical.png" />
+    <Content Include="Image\chests\ic-chest-silver.png" />
+    <Content Include="Image\chests\ic-chest-wooden.png" />
+    <Content Include="Image\emotions\angrer.gif" />
+    <Content Include="Image\emotions\cry.gif" />
+    <Content Include="Image\emotions\laugh.gif" />
+    <Content Include="Image\emotions\thumbs-up.gif" />
+    <Content Include="Image\leagues\blank.png" />
+    <Content Include="Image\leagues\challenger-i.png" />
+    <Content Include="Image\leagues\challenger-ii.png" />
+    <Content Include="Image\leagues\challenger-iii.png" />
+    <Content Include="Image\leagues\champion.png" />
+    <Content Include="Image\leagues\grand-champion.png" />
+    <Content Include="Image\leagues\master-i.png" />
+    <Content Include="Image\leagues\master-ii.png" />
+    <Content Include="Image\leagues\master-iii.png" />
+    <Content Include="Image\leagues\ultimate-champion.png" />
+    <Content Include="Image\levels\1.png" />
+    <Content Include="Image\levels\10.png" />
+    <Content Include="Image\levels\11.png" />
+    <Content Include="Image\levels\12.png" />
+    <Content Include="Image\levels\13.png" />
+    <Content Include="Image\levels\2.png" />
+    <Content Include="Image\levels\3.png" />
+    <Content Include="Image\levels\4.png" />
+    <Content Include="Image\levels\5.png" />
+    <Content Include="Image\levels\6.png" />
+    <Content Include="Image\levels\7.png" />
+    <Content Include="Image\levels\8.png" />
+    <Content Include="Image\levels\9.png" />
+    <Content Include="Image\stats\area-damage.png" />
+    <Content Include="Image\stats\blank.png" />
+    <Content Include="Image\stats\boost-rage.png" />
+    <Content Include="Image\stats\charge-dash-damage.png" />
+    <Content Include="Image\stats\common-level.png" />
+    <Content Include="Image\stats\count.png" />
+    <Content Include="Image\stats\crown-tower-damage.png" />
+    <Content Include="Image\stats\damage.png" />
+    <Content Include="Image\stats\dash-range.png" />
+    <Content Include="Image\stats\death-damage.png" />
+    <Content Include="Image\stats\deploy-time.png" />
+    <Content Include="Image\stats\dps.png" />
+    <Content Include="Image\stats\duration-lifetime.png" />
+    <Content Include="Image\stats\elixer-cost.png" />
+    <Content Include="Image\stats\epic-level.png" />
+    <Content Include="Image\stats\healing.png" />
+    <Content Include="Image\stats\hit-speed.png" />
+    <Content Include="Image\stats\hitpoints.png" />
+    <Content Include="Image\stats\legendary-level.png" />
+    <Content Include="Image\stats\radius.png" />
+    <Content Include="Image\stats\range.png" />
+    <Content Include="Image\stats\rare-level.png" />
+    <Content Include="Image\stats\shield-hitpoints.png" />
+    <Content Include="Image\stats\slowdown-effect.png" />
+    <Content Include="Image\stats\spawn-plus.png" />
+    <Content Include="Image\stats\spawn.png" />
+    <Content Include="Image\stats\speed.png" />
+    <Content Include="Image\stats\stun-freeze.png" />
+    <Content Include="Image\stats\target.png" />
+    <Content Include="Image\ui\add.png" />
+    <Content Include="Image\ui\battle.png" />
+    <Content Include="Image\ui\blue-crown.png" />
+    <Content Include="Image\ui\cheer-blue.png" />
+    <Content Include="Image\ui\cheer-red.png" />
+    <Content Include="Image\ui\chest-reward.png" />
+    <Content Include="Image\ui\clan-battle-win.png" />
+    <Content Include="Image\ui\clan-battle.png" />
+    <Content Include="Image\ui\common.png" />
+    <Content Include="Image\ui\copy-deck.png" />
+    <Content Include="Image\ui\cost.png" />
+    <Content Include="Image\ui\crown-shield.png" />
+    <Content Include="Image\ui\date.png" />
+    <Content Include="Image\ui\deck.png" />
+    <Content Include="Image\ui\draft.png" />
+    <Content Include="Image\ui\epic.png" />
+    <Content Include="Image\ui\gem-bucket.png" />
+    <Content Include="Image\ui\gem.png" />
+    <Content Include="Image\ui\gold-three.png" />
+    <Content Include="Image\ui\gold.png" />
+    <Content Include="Image\ui\icon.png" />
+    <Content Include="Image\ui\king-tower.png" />
+    <Content Include="Image\ui\leaderboard.png" />
+    <Content Include="Image\ui\legendary-trophy.png" />
+    <Content Include="Image\ui\legendary-unknown.png" />
+    <Content Include="Image\ui\legendary.png" />
+    <Content Include="Image\ui\level-big.png" />
+    <Content Include="Image\ui\level-small.png" />
+    <Content Include="Image\ui\locked.png" />
+    <Content Include="Image\ui\log.png" />
+    <Content Include="Image\ui\logo.png" />
+    <Content Include="Image\ui\news.png" />
+    <Content Include="Image\ui\no-cancel.png" />
+    <Content Include="Image\ui\no-connection.png" />
+    <Content Include="Image\ui\no-rewards.png" />
+    <Content Include="Image\ui\pointing-hand.png" />
+    <Content Include="Image\ui\random-deck.png" />
+    <Content Include="Image\ui\random-unknown.png" />
+    <Content Include="Image\ui\rank.png" />
+    <Content Include="Image\ui\rare.png" />
+    <Content Include="Image\ui\red-crown.png" />
+    <Content Include="Image\ui\search.png" />
+    <Content Include="Image\ui\settings.png" />
+    <Content Include="Image\ui\shop-granpa-goblin.png" />
+    <Content Include="Image\ui\shop.png" />
+    <Content Include="Image\ui\social.png" />
+    <Content Include="Image\ui\star.png" />
+    <Content Include="Image\ui\tourn-gold.png" />
+    <Content Include="Image\ui\tourn-green.png" />
+    <Content Include="Image\ui\tournament.png" />
+    <Content Include="Image\ui\training.png" />
+    <Content Include="Image\ui\trophy.png" />
+    <Content Include="Image\ui\tv-royale.png" />
+    <Content Include="Image\ui\upgrade.png" />
+    <Content Include="Image\ui\watch.png" />
+    <Content Include="Image\ui\yes-confirm.png" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-100.png" />
+    <Content Include="Assets\LockScreenLogo.scale-125.png" />
+    <Content Include="Assets\LockScreenLogo.scale-150.png" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\LockScreenLogo.scale-400.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-125.png" />
+    <Content Include="Assets\SplashScreen.scale-150.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-400.png" />
+    <Content Include="Assets\Square150x150Logo.scale-100.png" />
+    <Content Include="Assets\Square150x150Logo.scale-125.png" />
+    <Content Include="Assets\Square150x150Logo.scale-150.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.scale-100.png" />
+    <Content Include="Assets\Square44x44Logo.scale-125.png" />
+    <Content Include="Assets\Square44x44Logo.scale-150.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-400.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-16_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-48_altform-unplated.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-256_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-100.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-125.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-150.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CR\CR.csproj">
+      <Project>{8ab30aa1-aeb9-45b1-9d44-67f5bd8a8490}</Project>
+      <Name>CR</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+</Project>

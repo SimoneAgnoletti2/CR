@@ -1,0 +1,5152 @@
+[
+    {
+        "name": "Bogdan",
+        "tag": "LCRU2CC2",
+        "rank": 1,
+        "previousRank": 95,
+        "expLevel": 13,
+        "trophies": 6102,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Grand Champion",
+            "arena": "League 8",
+            "arenaID": 20,
+            "trophyLimit": 6100
+        }
+    },
+    {
+        "name": "Be NormaL",
+        "tag": "8RR8URG",
+        "rank": 2,
+        "previousRank": 1,
+        "expLevel": 13,
+        "trophies": 6099,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9L0UYCLV",
+            "name": "GLORY MAKERS",
+            "badge": {
+                "name": "Bamboo_04",
+                "category": "01_Symbol",
+                "id": 16000139,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bamboo_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Nova l Karnage",
+        "tag": "9CG0QCQ0",
+        "rank": 3,
+        "previousRank": 3,
+        "expLevel": 13,
+        "trophies": 6012,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PL229QPP",
+            "name": "Bandera Blanca",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u0f09\u6749\u0f82\u83dc\u5305\u0f34\u0fd0",
+        "tag": "9JUUVPGR",
+        "rank": 4,
+        "previousRank": 6,
+        "expLevel": 13,
+        "trophies": 6001,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "sencer",
+        "tag": "JURPJ9RC",
+        "rank": 5,
+        "previousRank": 4,
+        "expLevel": 13,
+        "trophies": 5998,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "988Y89PY",
+            "name": "Sandstorm Pro",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Captain Kirk",
+        "tag": "2YRUYYY9",
+        "rank": 6,
+        "previousRank": 60,
+        "expLevel": 13,
+        "trophies": 5983,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8C089098",
+            "name": "X-Fun",
+            "badge": {
+                "name": "A_Char_DarkPrince_03",
+                "category": "03_Royale",
+                "id": 16000158,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "SuultanN",
+        "tag": "8JPV9QUR",
+        "rank": 7,
+        "previousRank": 7,
+        "expLevel": 13,
+        "trophies": 5970,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9L0UYCLV",
+            "name": "GLORY MAKERS",
+            "badge": {
+                "name": "Bamboo_04",
+                "category": "01_Symbol",
+                "id": 16000139,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bamboo_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "PUBG",
+        "tag": "8JYRRLP8P",
+        "rank": 8,
+        "previousRank": 23,
+        "expLevel": 13,
+        "trophies": 5970,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8UY0CPU2",
+            "name": "Nova l Raze",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "SHOU",
+        "tag": "99UUPL28",
+        "rank": 9,
+        "previousRank": 24,
+        "expLevel": 13,
+        "trophies": 5965,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8RJQU9CU",
+            "name": "Deep swamp",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Yellow",
+        "tag": "89R8LY99",
+        "rank": 10,
+        "previousRank": 18,
+        "expLevel": 13,
+        "trophies": 5962,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90R9VPP9",
+            "name": "North Rebellion",
+            "badge": {
+                "name": "Freeze_02",
+                "category": "01_Symbol",
+                "id": 16000169,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "COMMANDER",
+        "tag": "PP8QRRG",
+        "rank": 11,
+        "previousRank": 8,
+        "expLevel": 13,
+        "trophies": 5960,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9VR2CVJQ",
+            "name": "GulfNation\u2122\ufe0f",
+            "badge": {
+                "name": "Star_Shine_02",
+                "category": "01_Symbol",
+                "id": 16000043,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "CaptanPrice",
+        "tag": "PQQ0Q8CG",
+        "rank": 12,
+        "previousRank": 9,
+        "expLevel": 13,
+        "trophies": 5959,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QLVV00V",
+            "name": "T\u00dcRK\u0130YE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Pompeyo4",
+        "tag": "2R8P28",
+        "rank": 13,
+        "previousRank": 10,
+        "expLevel": 13,
+        "trophies": 5956,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2CQQVQCU",
+            "name": "Nova l Hispania",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "O K T A Y \u2b50\ufe0f",
+        "tag": "2LUPG80J",
+        "rank": 14,
+        "previousRank": 11,
+        "expLevel": 13,
+        "trophies": 5955,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "bo sabah",
+        "tag": "G0C99QUY",
+        "rank": 15,
+        "previousRank": 22,
+        "expLevel": 13,
+        "trophies": 5955,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8PCCV9PQ",
+            "name": "Sandstorm Arb",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Morten",
+        "tag": "R09228V",
+        "rank": 16,
+        "previousRank": 12,
+        "expLevel": 13,
+        "trophies": 5954,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2QVY98RU",
+            "name": "Royal Guards",
+            "badge": {
+                "name": "Arrow_01",
+                "category": "01_Symbol",
+                "id": 16000016,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Arrow_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "RIAN",
+        "tag": "9PLGQ0V9",
+        "rank": 17,
+        "previousRank": 13,
+        "expLevel": 13,
+        "trophies": 5951,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\ub0a8\uc218\ub974",
+        "tag": "8VCCUUUJR",
+        "rank": 18,
+        "previousRank": 65,
+        "expLevel": 13,
+        "trophies": 5948,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "98CLP90L",
+            "name": "\ub85c\uc584\ud328\ubc00\ub9ac KOREA",
+            "badge": {
+                "name": "Crown_04",
+                "category": "01_Symbol",
+                "id": 16000015,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u1515\u15f0OKE",
+        "tag": "98L0GV0U",
+        "rank": 19,
+        "previousRank": 15,
+        "expLevel": 13,
+        "trophies": 5947,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9VR2CVJQ",
+            "name": "GulfNation\u2122\ufe0f",
+            "badge": {
+                "name": "Star_Shine_02",
+                "category": "01_Symbol",
+                "id": 16000043,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "sencerIsKing\u2122",
+        "tag": "2LLJC0PJ",
+        "rank": 20,
+        "previousRank": 2,
+        "expLevel": 13,
+        "trophies": 5943,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Even\u26a1\ufe0f",
+        "tag": "L9PG8V00",
+        "rank": 21,
+        "previousRank": 16,
+        "expLevel": 13,
+        "trophies": 5942,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "AGLR",
+        "tag": "QV9G8RL",
+        "rank": 22,
+        "previousRank": 19,
+        "expLevel": 13,
+        "trophies": 5937,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QLVV00V",
+            "name": "T\u00dcRK\u0130YE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "JACK",
+        "tag": "P988G880",
+        "rank": 23,
+        "previousRank": 109,
+        "expLevel": 13,
+        "trophies": 5934,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QRVJUUR",
+            "name": "God's Plan",
+            "badge": {
+                "name": "Heart_01",
+                "category": "01_Symbol",
+                "id": 16000108,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "FINAL FORM",
+        "tag": "GRYRYVQU",
+        "rank": 24,
+        "previousRank": 37,
+        "expLevel": 13,
+        "trophies": 5933,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "sdxb",
+        "tag": "JY0LC9PC",
+        "rank": 25,
+        "previousRank": 39,
+        "expLevel": 13,
+        "trophies": 5929,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RR0RPQ",
+            "name": "Falcons\u2122",
+            "badge": {
+                "name": "Arrow_02",
+                "category": "01_Symbol",
+                "id": 16000017,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Arrow_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2728RedBull\u2728",
+        "tag": "209CRCLU",
+        "rank": 26,
+        "previousRank": 20,
+        "expLevel": 13,
+        "trophies": 5925,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "!\u00a1osama\u2122!\u00a1",
+        "tag": "8P8VVJRQ",
+        "rank": 27,
+        "previousRank": 76,
+        "expLevel": 13,
+        "trophies": 5918,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Y22PVJG",
+            "name": "ME PUNISHERS",
+            "badge": {
+                "name": "A_Char_Hammer_01",
+                "category": "03_Royale",
+                "id": 16000164,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u00ae\ufe0fRedBull\u00ae\ufe0f",
+        "tag": "99VGCCJL",
+        "rank": 28,
+        "previousRank": 25,
+        "expLevel": 13,
+        "trophies": 5913,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Blevins",
+        "tag": "88YYR2L",
+        "rank": 29,
+        "previousRank": 26,
+        "expLevel": 13,
+        "trophies": 5913,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "DartnDave",
+        "tag": "8GUQJCGY",
+        "rank": 30,
+        "previousRank": 27,
+        "expLevel": 13,
+        "trophies": 5911,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "GCRV2",
+            "name": "Arcanum",
+            "badge": {
+                "name": "Crown_01",
+                "category": "01_Symbol",
+                "id": 16000012,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Art",
+        "tag": "GYU0R00",
+        "rank": 31,
+        "previousRank": 56,
+        "expLevel": 13,
+        "trophies": 5909,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8C88C2",
+            "name": "\u041a\u0443\u0437\u044c\u043a\u0438\u043d\u0430 \u041c\u0430\u0442\u044c",
+            "badge": {
+                "name": "flag_j_03",
+                "category": "02_Flag",
+                "id": 16000077,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Hassan",
+        "tag": "Q828RGR2",
+        "rank": 32,
+        "previousRank": 28,
+        "expLevel": 13,
+        "trophies": 5907,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2P0VLQ2J",
+            "name": "LEGITS",
+            "badge": {
+                "name": "A_Char_Pekka_02",
+                "category": "03_Royale",
+                "id": 16000163,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Pekka_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u0627\u0644\u063a\u0636\u0628\"",
+        "tag": "YP0JVQY2",
+        "rank": 33,
+        "previousRank": 29,
+        "expLevel": 13,
+        "trophies": 5907,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8PCCV9PQ",
+            "name": "Sandstorm Arb",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Suchteffekt",
+        "tag": "9PVUCC",
+        "rank": 34,
+        "previousRank": 30,
+        "expLevel": 13,
+        "trophies": 5905,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8U0CPGQR",
+            "name": "Team Str\u00a5ng\u2122",
+            "badge": {
+                "name": "Bolt_03",
+                "category": "01_Symbol",
+                "id": 16000010,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "el9a7rawi",
+        "tag": "2PGG8LC8V",
+        "rank": 35,
+        "previousRank": 128,
+        "expLevel": 13,
+        "trophies": 5905,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "988Y89PY",
+            "name": "Sandstorm Pro",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "bo khaled",
+        "tag": "89YR0R9VC",
+        "rank": 36,
+        "previousRank": 31,
+        "expLevel": 13,
+        "trophies": 5903,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8PCCV9PQ",
+            "name": "Sandstorm Arb",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Heisenberg",
+        "tag": "YRG2U",
+        "rank": 37,
+        "previousRank": 77,
+        "expLevel": 13,
+        "trophies": 5903,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "hisham",
+        "tag": "8QGCU8QR",
+        "rank": 38,
+        "previousRank": 32,
+        "expLevel": 13,
+        "trophies": 5902,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8UY0CPU2",
+            "name": "Nova l Raze",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Attila the Hun",
+        "tag": "PYRLLU20",
+        "rank": 39,
+        "previousRank": 49,
+        "expLevel": 13,
+        "trophies": 5900,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RJPCUU",
+            "name": "WHAM! eSports",
+            "badge": {
+                "name": "A_Char_DarkPrince_01",
+                "category": "03_Royale",
+                "id": 16000156,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Latini\u2122",
+        "tag": "2J90Y8L",
+        "rank": 40,
+        "previousRank": 45,
+        "expLevel": 13,
+        "trophies": 5898,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Tayyab\u2122",
+        "tag": "2GG9VCU8",
+        "rank": 41,
+        "previousRank": 35,
+        "expLevel": 13,
+        "trophies": 5887,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "920YJ20P",
+            "name": "Vanguard\u2122 Light",
+            "badge": {
+                "name": "flag_n_04",
+                "category": "02_Flag",
+                "id": 16000093,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_n_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u305f\u3051\u304d",
+        "tag": "228GV8PG",
+        "rank": 42,
+        "previousRank": 266,
+        "expLevel": 13,
+        "trophies": 5886,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "Q0JJUQG",
+            "name": "White Waltz",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "lolorob_11",
+        "tag": "8UUGRPRQ",
+        "rank": 43,
+        "previousRank": 5,
+        "expLevel": 13,
+        "trophies": 5885,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "SaintBelikin",
+        "tag": "QVPJRV",
+        "rank": 44,
+        "previousRank": 40,
+        "expLevel": 13,
+        "trophies": 5883,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9JRL8UPY",
+            "name": "alex0",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Alif",
+        "tag": "282QVRGP",
+        "rank": 45,
+        "previousRank": 17,
+        "expLevel": 13,
+        "trophies": 5883,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8GP8Y28R",
+            "name": "Mega Indonesia",
+            "badge": {
+                "name": "Flame_02",
+                "category": "01_Symbol",
+                "id": 16000001,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2022 Fei \u2022",
+        "tag": "Q0GPPC0P",
+        "rank": 46,
+        "previousRank": 14,
+        "expLevel": 13,
+        "trophies": 5880,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q899L82",
+            "name": "beat NB",
+            "badge": {
+                "name": "Diamond_Star_03",
+                "category": "01_Symbol",
+                "id": 16000022,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_Star_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "donaldteo",
+        "tag": "88VQUYPC",
+        "rank": 47,
+        "previousRank": 36,
+        "expLevel": 13,
+        "trophies": 5878,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QQRVGG",
+            "name": "Aura.Atom",
+            "badge": {
+                "name": "Diamond_Star_01",
+                "category": "01_Symbol",
+                "id": 16000020,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "MW I Wrobel",
+        "tag": "LQ90JC0",
+        "rank": 48,
+        "previousRank": 80,
+        "expLevel": 13,
+        "trophies": 5878,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "JQRUVYY",
+            "name": "Cgn Warriors",
+            "badge": {
+                "name": "Skull_01",
+                "category": "01_Symbol",
+                "id": 16000024,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Trainer Dexterz",
+        "tag": "JPLP0L0Y",
+        "rank": 49,
+        "previousRank": 47,
+        "expLevel": 13,
+        "trophies": 5878,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P2RLL0LQ",
+            "name": "Chaos Theory",
+            "badge": {
+                "name": "Bolt_01",
+                "category": "01_Symbol",
+                "id": 16000008,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "yousefq822'",
+        "tag": "CC0CLGUC",
+        "rank": 50,
+        "previousRank": 38,
+        "expLevel": 13,
+        "trophies": 5874,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "mugi",
+        "tag": "2CLV2RP0",
+        "rank": 51,
+        "previousRank": 33,
+        "expLevel": 13,
+        "trophies": 5872,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QRVJUUR",
+            "name": "God's Plan",
+            "badge": {
+                "name": "Heart_01",
+                "category": "01_Symbol",
+                "id": 16000108,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "LiquidWOLF",
+        "tag": "9ULPU0QL",
+        "rank": 52,
+        "previousRank": 79,
+        "expLevel": 13,
+        "trophies": 5868,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "89UJ8J2J",
+            "name": "RoyalFlush\u2122",
+            "badge": {
+                "name": "flag_j_03",
+                "category": "02_Flag",
+                "id": 16000077,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\ub85c\uc464\uc778",
+        "tag": "2RR20PLR",
+        "rank": 53,
+        "previousRank": 196,
+        "expLevel": 13,
+        "trophies": 5867,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PGPV0GG",
+            "name": "\uc78e\uc0c8",
+            "badge": {
+                "name": "Clover_01",
+                "category": "01_Symbol",
+                "id": 16000170,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Clover_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2622\ufe0fGame Over\u2622\ufe0f",
+        "tag": "2VY8V2VL",
+        "rank": 54,
+        "previousRank": 102,
+        "expLevel": 13,
+        "trophies": 5866,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8YVV9YUR",
+            "name": "Veterans \u00c9lite\u2122",
+            "badge": {
+                "name": "Traditional_Star_01",
+                "category": "01_Symbol",
+                "id": 16000036,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u3051\u3093\u3064\u3081\u3057",
+        "tag": "PQRR0CG9",
+        "rank": 55,
+        "previousRank": 143,
+        "expLevel": 13,
+        "trophies": 5861,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QRVJUUR",
+            "name": "God's Plan",
+            "badge": {
+                "name": "Heart_01",
+                "category": "01_Symbol",
+                "id": 16000108,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2b50\ufe0f Al-Thani \u2b50\ufe0f",
+        "tag": "28VCYVRUJ",
+        "rank": 56,
+        "previousRank": 42,
+        "expLevel": 13,
+        "trophies": 5859,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q2RQG9G",
+            "name": "Nova l Qatar",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\uc0ac\uacfc\ub3c4\ub451",
+        "tag": "PPPY9V9Q",
+        "rank": 57,
+        "previousRank": 43,
+        "expLevel": 13,
+        "trophies": 5858,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RJPCUU",
+            "name": "WHAM! eSports",
+            "badge": {
+                "name": "A_Char_DarkPrince_01",
+                "category": "03_Royale",
+                "id": 16000156,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "mattg",
+        "tag": "Y2C2GLQ",
+        "rank": 58,
+        "previousRank": 44,
+        "expLevel": 13,
+        "trophies": 5855,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QP2CUCV",
+            "name": "Nova l North",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Nekroz\u2122",
+        "tag": "QYLCYGUJ",
+        "rank": 59,
+        "previousRank": 84,
+        "expLevel": 13,
+        "trophies": 5852,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "w\u0131\u015f\u015f\u015f",
+        "tag": "P2JGJ90J",
+        "rank": 60,
+        "previousRank": 62,
+        "expLevel": 13,
+        "trophies": 5851,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9P2J2Q0P",
+            "name": "DEVLET-\u0130 AL\u0130YYE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "metalbond\u2122",
+        "tag": "YLG0C08V",
+        "rank": 61,
+        "previousRank": 34,
+        "expLevel": 13,
+        "trophies": 5851,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QLVV00V",
+            "name": "T\u00dcRK\u0130YE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u963f\u90e8\u9b3c",
+        "tag": "9CVGRUYG",
+        "rank": 62,
+        "previousRank": 21,
+        "expLevel": 13,
+        "trophies": 5849,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2CVRC9VL",
+            "name": "Bubly fam",
+            "badge": {
+                "name": "flag_c_06",
+                "category": "02_Flag",
+                "id": 16000057,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_06.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "TNT",
+        "tag": "PYJ2JUL",
+        "rank": 63,
+        "previousRank": 61,
+        "expLevel": 13,
+        "trophies": 5847,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u30c7\u30a3\u30ac\u30fc\u306e\u6975\u307f",
+        "tag": "8QGV8CQVL",
+        "rank": 64,
+        "previousRank": 101,
+        "expLevel": 13,
+        "trophies": 5847,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8PCCV9PQ",
+            "name": "Sandstorm Arb",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Jaii\u2122",
+        "tag": "YJ0L8Y0",
+        "rank": 65,
+        "previousRank": 72,
+        "expLevel": 13,
+        "trophies": 5844,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8YUQLQPY",
+            "name": "Bren Esports",
+            "badge": {
+                "name": "A_Char_King_03",
+                "category": "03_Royale",
+                "id": 16000146,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Nova l Sramos:)",
+        "tag": "LR2RQQ09",
+        "rank": 66,
+        "previousRank": 74,
+        "expLevel": 13,
+        "trophies": 5837,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2CQQVQCU",
+            "name": "Nova l Hispania",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "H\u0130RA\u015e\u0130MO",
+        "tag": "99GV899U",
+        "rank": 67,
+        "previousRank": 180,
+        "expLevel": 13,
+        "trophies": 5837,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9P2J2Q0P",
+            "name": "DEVLET-\u0130 AL\u0130YYE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u9f8d\u6eaa",
+        "tag": "89GPV0YJ9",
+        "rank": 68,
+        "previousRank": 50,
+        "expLevel": 13,
+        "trophies": 5836,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8LQ2P0RL",
+            "name": "\u9f8d\u6eaaCR",
+            "badge": {
+                "name": "Crown_01",
+                "category": "01_Symbol",
+                "id": 16000012,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Latini 3",
+        "tag": "Q8CYPP9",
+        "rank": 69,
+        "previousRank": 52,
+        "expLevel": 13,
+        "trophies": 5833,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "lalo",
+        "tag": "8YUG9UQQ",
+        "rank": 70,
+        "previousRank": 54,
+        "expLevel": 13,
+        "trophies": 5828,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9YCP9PPY",
+            "name": "Mexican Empire",
+            "badge": {
+                "name": "flag_j_03",
+                "category": "02_Flag",
+                "id": 16000077,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "hbs2",
+        "tag": "R9RQ9VLU",
+        "rank": 71,
+        "previousRank": 57,
+        "expLevel": 13,
+        "trophies": 5827,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9P80LGGG",
+            "name": "Sandstorm QTR",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "MW I ~T~",
+        "tag": "R2QL9QL9",
+        "rank": 72,
+        "previousRank": 58,
+        "expLevel": 13,
+        "trophies": 5826,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "J88P0VC",
+            "name": "Munich Academy",
+            "badge": {
+                "name": "Sword_01",
+                "category": "01_Symbol",
+                "id": 16000004,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Safeer Alz3ama",
+        "tag": "9GGGJUCL",
+        "rank": 73,
+        "previousRank": 130,
+        "expLevel": 13,
+        "trophies": 5824,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9LL8U2L0",
+            "name": "3NaD Global",
+            "badge": {
+                "name": "Skull_05",
+                "category": "01_Symbol",
+                "id": 16000028,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_05.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u674e\u8001\u5e2b",
+        "tag": "9UUJPUQJ",
+        "rank": 74,
+        "previousRank": 575,
+        "expLevel": 13,
+        "trophies": 5824,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Dank Ganon",
+        "tag": "Y0G2R9UL",
+        "rank": 75,
+        "previousRank": 98,
+        "expLevel": 13,
+        "trophies": 5823,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Paul",
+        "tag": "RG0LRCL",
+        "rank": 76,
+        "previousRank": 64,
+        "expLevel": 13,
+        "trophies": 5821,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "200YJ2L8",
+            "name": "French Wave 1",
+            "badge": {
+                "name": "flag_k_01",
+                "category": "02_Flag",
+                "id": 16000078,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_k_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Narayan",
+        "tag": "QP9GLY",
+        "rank": 77,
+        "previousRank": 263,
+        "expLevel": 13,
+        "trophies": 5817,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V00U2RJ",
+            "name": "Star Alliance",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "MusicMaster",
+        "tag": "282LVUP",
+        "rank": 78,
+        "previousRank": 67,
+        "expLevel": 13,
+        "trophies": 5816,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "988Y89PY",
+            "name": "Sandstorm Pro",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u713c\u304d\u9ce5",
+        "tag": "2Y8GL0V2",
+        "rank": 79,
+        "previousRank": 68,
+        "expLevel": 13,
+        "trophies": 5815,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "JCQ9P",
+            "name": "\u306a\u3093\u3068\u5b9d\u7bb1\u306f\u30df\u30df\u30c3\u30af\u3060\u3063\u305f\uff01",
+            "badge": {
+                "name": "Skull_05",
+                "category": "01_Symbol",
+                "id": 16000028,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "M-Star",
+        "tag": "20LQVQVCJ",
+        "rank": 80,
+        "previousRank": 69,
+        "expLevel": 13,
+        "trophies": 5815,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "takaa",
+        "tag": "LLCR2GJQ",
+        "rank": 81,
+        "previousRank": 53,
+        "expLevel": 13,
+        "trophies": 5815,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u65e0\u5fc3",
+        "tag": "290L9GP9",
+        "rank": 82,
+        "previousRank": 264,
+        "expLevel": 13,
+        "trophies": 5815,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2GG8J2GU",
+            "name": "\u68a6\u843d\u7ea2\u5c18 \u541b\u5b50\u4e4b\u4ea4",
+            "badge": {
+                "name": "Heart_02",
+                "category": "01_Symbol",
+                "id": 16000109,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "RivalCinema",
+        "tag": "89VU9RP2V",
+        "rank": 83,
+        "previousRank": 99,
+        "expLevel": 13,
+        "trophies": 5815,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "DUSTIN \u263a\ufe0f",
+        "tag": "YQYLCLRC",
+        "rank": 84,
+        "previousRank": 70,
+        "expLevel": 13,
+        "trophies": 5814,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "STING",
+        "tag": "Y9RGP829",
+        "rank": 85,
+        "previousRank": 71,
+        "expLevel": 13,
+        "trophies": 5812,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "22PGG82Q",
+            "name": "UAE LEGENDS",
+            "badge": {
+                "name": "Bolt_02",
+                "category": "01_Symbol",
+                "id": 16000009,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2663\ufe0fseb\u2663\ufe0f",
+        "tag": "2L2UQC0P",
+        "rank": 86,
+        "previousRank": 129,
+        "expLevel": 13,
+        "trophies": 5812,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V00U2RJ",
+            "name": "Star Alliance",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "PaTaKoZ",
+        "tag": "2CYL2LVY",
+        "rank": 87,
+        "previousRank": 533,
+        "expLevel": 13,
+        "trophies": 5812,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QLVV00V",
+            "name": "T\u00dcRK\u0130YE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u30b7\u30a4\u30b9",
+        "tag": "CU0VJ0CY",
+        "rank": 88,
+        "previousRank": 55,
+        "expLevel": 13,
+        "trophies": 5812,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "CV0YVU",
+            "name": "\u5927\u962a\u30af\u30e9\u30f3",
+            "badge": {
+                "name": "flag_a_03",
+                "category": "02_Flag",
+                "id": 16000050,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_a_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Raxxs",
+        "tag": "9R2CJRC8",
+        "rank": 89,
+        "previousRank": 73,
+        "expLevel": 13,
+        "trophies": 5811,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90R9VPP9",
+            "name": "North Rebellion",
+            "badge": {
+                "name": "Freeze_02",
+                "category": "01_Symbol",
+                "id": 16000169,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "(\uff40\uff65\u03c9\uff65\u00b4)",
+        "tag": "99UL2U02",
+        "rank": 90,
+        "previousRank": 117,
+        "expLevel": 13,
+        "trophies": 5810,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8RJQU9CU",
+            "name": "Deep swamp",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u3060 \u306b",
+        "tag": "8LJVVGJP",
+        "rank": 91,
+        "previousRank": 78,
+        "expLevel": 13,
+        "trophies": 5809,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "V0U",
+            "name": "\u30b8\u30a7\u30f3\u30b3\u30fb\u30aa\u30ea\u30fc\u30d6\u5546\u4f1a",
+            "badge": {
+                "name": "flag_c_03",
+                "category": "02_Flag",
+                "id": 16000054,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u4e0b\u96ea\u8fb9\u754c",
+        "tag": "20U8VJ92J",
+        "rank": 92,
+        "previousRank": 118,
+        "expLevel": 13,
+        "trophies": 5808,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u30a2\u30ca\u30b6\u30fc",
+        "tag": "CQ28URY0",
+        "rank": 93,
+        "previousRank": 82,
+        "expLevel": 13,
+        "trophies": 5807,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "Q0JJUQG",
+            "name": "White Waltz",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "iLiR",
+        "tag": "8U2YJ9LR",
+        "rank": 94,
+        "previousRank": 85,
+        "expLevel": 13,
+        "trophies": 5805,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PQ2VC9V",
+            "name": "ALBANIA BRO'S",
+            "badge": {
+                "name": "Crown_04",
+                "category": "01_Symbol",
+                "id": 16000015,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "livinlegend",
+        "tag": "2L0UVRPY2",
+        "rank": 95,
+        "previousRank": 414,
+        "expLevel": 13,
+        "trophies": 5805,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "JQRUVYY",
+            "name": "Cgn Warriors",
+            "badge": {
+                "name": "Skull_01",
+                "category": "01_Symbol",
+                "id": 16000024,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "loupanji",
+        "tag": "99CYUP9",
+        "rank": 96,
+        "previousRank": 87,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9VRLC0Y2",
+            "name": "Qdw Esport",
+            "badge": {
+                "name": "A_Char_Hammer_02",
+                "category": "03_Royale",
+                "id": 16000165,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "JohnTan",
+        "tag": "JLVYJQLL",
+        "rank": 97,
+        "previousRank": 88,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8G9VY92",
+            "name": "\u4e0a\u6d77 OP Elite",
+            "badge": {
+                "name": "Flame_01",
+                "category": "01_Symbol",
+                "id": 16000000,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Thebosshey123",
+        "tag": "9JLV20P",
+        "rank": 98,
+        "previousRank": 89,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "RedBull\u2122\ufe0f",
+        "tag": "LY0GVLLP",
+        "rank": 99,
+        "previousRank": 91,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P0LV0QVV",
+            "name": "Q8Team",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "SHOAIB",
+        "tag": "LPU8GPJC",
+        "rank": 100,
+        "previousRank": 104,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "998U00Y9",
+            "name": "Voice of BD",
+            "badge": {
+                "name": "Heart_01",
+                "category": "01_Symbol",
+                "id": 16000108,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Heart_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "FiReStoRM\u2693",
+        "tag": "28PQ209",
+        "rank": 101,
+        "previousRank": 106,
+        "expLevel": 13,
+        "trophies": 5804,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9R0U8G0C",
+            "name": "\u00c9lite Hispana",
+            "badge": {
+                "name": "Sword_01",
+                "category": "01_Symbol",
+                "id": 16000004,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u26bdSANTIAGO M\u26bd",
+        "tag": "299U2JR",
+        "rank": 102,
+        "previousRank": 364,
+        "expLevel": 13,
+        "trophies": 5803,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P09P280Y",
+            "name": "Star Alliance\u2122",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "k0u.h",
+        "tag": "2PLJGLL0",
+        "rank": 103,
+        "previousRank": 219,
+        "expLevel": 13,
+        "trophies": 5803,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V08LPY9",
+            "name": "HAYUIKOTO",
+            "badge": {
+                "name": "flag_d_06",
+                "category": "02_Flag",
+                "id": 16000065,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_d_06.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "GRIKO",
+        "tag": "2LJ0ULYCC",
+        "rank": 104,
+        "previousRank": 340,
+        "expLevel": 13,
+        "trophies": 5803,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8UUQJCRJ",
+            "name": "\u306f\u3061\u307f\u3064\u3071\u3044",
+            "badge": {
+                "name": "Cherry_Blossom_05",
+                "category": "01_Symbol",
+                "id": 16000133,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Cherry_Blossom_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "IgnacitoAc",
+        "tag": "Q0P8UQU",
+        "rank": 105,
+        "previousRank": 92,
+        "expLevel": 13,
+        "trophies": 5801,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V90YCPC",
+            "name": "Cream eSports",
+            "badge": {
+                "name": "flag_b_02",
+                "category": "02_Flag",
+                "id": 16000052,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_b_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "Raayz\u2122",
+        "tag": "2RJP8JP9",
+        "rank": 106,
+        "previousRank": 159,
+        "expLevel": 13,
+        "trophies": 5801,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9GUCJRL0",
+            "name": "Team Solid",
+            "badge": {
+                "name": "Tower_02",
+                "category": "03_Royale",
+                "id": 16000113,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Tower_02.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u2764ReaperHunter\u2764",
+        "tag": "802UUL9L",
+        "rank": 107,
+        "previousRank": 136,
+        "expLevel": 13,
+        "trophies": 5801,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V00U2RJ",
+            "name": "Star Alliance",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\uacf5\ubd80\uc880\ud558\uc790",
+        "tag": "YJC9GUL8",
+        "rank": 108,
+        "previousRank": 93,
+        "expLevel": 13,
+        "trophies": 5800,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "QCYQY9",
+            "name": "\ubd80\uc0b0",
+            "badge": {
+                "name": "Fan_01",
+                "category": "01_Symbol",
+                "id": 16000116,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Fan_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u306a\u304a\u3063\u3061",
+        "tag": "9Y0CULLL",
+        "rank": 109,
+        "previousRank": 269,
+        "expLevel": 13,
+        "trophies": 5800,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P9UY09YR",
+            "name": "Green iron",
+            "badge": {
+                "name": "Gem_04",
+                "category": "03_Royale",
+                "id": 16000101,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Gem_04.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "adriano",
+        "tag": "JJ2YLLGJ",
+        "rank": 110,
+        "previousRank": 115,
+        "expLevel": 13,
+        "trophies": 5800,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9UJV0JGP",
+            "name": "Mkers ITA",
+            "badge": {
+                "name": "A_Char_King_01",
+                "category": "03_Royale",
+                "id": 16000144,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u51b7\u9177\u65e0\u60c5\u7684\u4e0a\u5206\u673a\u5668",
+        "tag": "PYY89JC",
+        "rank": 111,
+        "previousRank": 94,
+        "expLevel": 13,
+        "trophies": 5799,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2CQQVQCU",
+            "name": "Nova l Hispania",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\uacf1v",
+        "tag": "P28GL92P",
+        "rank": 112,
+        "previousRank": 86,
+        "expLevel": 13,
+        "trophies": 5799,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PGPV0GG",
+            "name": "\uc78e\uc0c8",
+            "badge": {
+                "name": "Clover_01",
+                "category": "01_Symbol",
+                "id": 16000170,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Clover_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "VIRUS",
+        "tag": "JLL9G2UL",
+        "rank": 113,
+        "previousRank": 202,
+        "expLevel": 13,
+        "trophies": 5797,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "82PPJUU8",
+            "name": "Made In Egypt \u2122",
+            "badge": {
+                "name": "Twin_Peaks_01",
+                "category": "01_Symbol",
+                "id": 16000096,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Faithless",
+        "tag": "PRRLLUL",
+        "rank": 114,
+        "previousRank": 97,
+        "expLevel": 13,
+        "trophies": 5793,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2RU2JVV2",
+            "name": "That's Italia\u00ae",
+            "badge": {
+                "name": "flag_k_04",
+                "category": "02_Flag",
+                "id": 16000081,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_k_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "white1337",
+        "tag": "2RLJULPQ",
+        "rank": 115,
+        "previousRank": 100,
+        "expLevel": 13,
+        "trophies": 5789,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "82V9V",
+            "name": "Munich Warriors",
+            "badge": {
+                "name": "Sword_01",
+                "category": "01_Symbol",
+                "id": 16000004,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "LLapb Vlad",
+        "tag": "PYLQLCL8",
+        "rank": 116,
+        "previousRank": 111,
+        "expLevel": 13,
+        "trophies": 5787,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2V0QU2QC",
+            "name": "Parabellum",
+            "badge": {
+                "name": "Sword_04",
+                "category": "01_Symbol",
+                "id": 16000007,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Ulu\u00e7",
+        "tag": "LG9JYJRU",
+        "rank": 117,
+        "previousRank": 152,
+        "expLevel": 13,
+        "trophies": 5787,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QLVV00V",
+            "name": "T\u00dcRK\u0130YE",
+            "badge": {
+                "name": "Moon_01",
+                "category": "01_Symbol",
+                "id": 16000030,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Moon_01.png"
+            }
+        },
+        "arena": {
+            "name": "Champion",
+            "arena": "League 7",
+            "arenaID": 19,
+            "trophyLimit": 5800
+        }
+    },
+    {
+        "name": "\u80a5\u5e73",
+        "tag": "2LP99P92",
+        "rank": 118,
+        "previousRank": 133,
+        "expLevel": 13,
+        "trophies": 5779,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RVVC82",
+            "name": "HongKong Elite",
+            "badge": {
+                "name": "A_Char_King_03",
+                "category": "03_Royale",
+                "id": 16000146,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "FakeRDMwanG",
+        "tag": "RYY9GJLG",
+        "rank": 119,
+        "previousRank": 83,
+        "expLevel": 13,
+        "trophies": 5776,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "MasteR",
+        "tag": "8008J8L0",
+        "rank": 120,
+        "previousRank": 303,
+        "expLevel": 13,
+        "trophies": 5775,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PGPV0GG",
+            "name": "\uc78e\uc0c8",
+            "badge": {
+                "name": "Clover_01",
+                "category": "01_Symbol",
+                "id": 16000170,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Clover_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nick",
+        "tag": "8R29LRR0",
+        "rank": 121,
+        "previousRank": 103,
+        "expLevel": 13,
+        "trophies": 5774,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "FaceControl",
+        "tag": "YLPGUGYL",
+        "rank": 122,
+        "previousRank": 105,
+        "expLevel": 13,
+        "trophies": 5766,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9V8G0V9R",
+            "name": "\u0411\u043e\u0435\u0432\u0430\u044f \u043a\u043b\u0430\u0441\u0441\u0438\u043a\u0430",
+            "badge": {
+                "name": "Crown_04",
+                "category": "01_Symbol",
+                "id": 16000015,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Tinapay Masaker",
+        "tag": "8VUV2J2L",
+        "rank": 123,
+        "previousRank": 307,
+        "expLevel": 13,
+        "trophies": 5764,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q2RQG9G",
+            "name": "Nova l Qatar",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "mars",
+        "tag": "YP89JRC2",
+        "rank": 124,
+        "previousRank": 157,
+        "expLevel": 13,
+        "trophies": 5761,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nova \u2728 Tali",
+        "tag": "2CYR0UVR",
+        "rank": 125,
+        "previousRank": 124,
+        "expLevel": 13,
+        "trophies": 5759,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "GJGQCGU",
+            "name": "Vietnam Glory",
+            "badge": {
+                "name": "Traditional_Star_04",
+                "category": "01_Symbol",
+                "id": 16000039,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "joker.",
+        "tag": "8UJLRQ8C",
+        "rank": 126,
+        "previousRank": 107,
+        "expLevel": 13,
+        "trophies": 5757,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8RJQU9CU",
+            "name": "Deep swamp",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "ololoololoolool",
+        "tag": "2Y00R20R",
+        "rank": 127,
+        "previousRank": 183,
+        "expLevel": 13,
+        "trophies": 5757,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QU9298C",
+            "name": "La Resistencia",
+            "badge": {
+                "name": "flag_d_02",
+                "category": "02_Flag",
+                "id": 16000061,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_d_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u6765\u81eaNova\u7684\u6768\u54a9\u54a9",
+        "tag": "9YRQPLGC",
+        "rank": 128,
+        "previousRank": 694,
+        "expLevel": 13,
+        "trophies": 5756,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8LQ2P0RL",
+            "name": "\u9f8d\u6eaaCR",
+            "badge": {
+                "name": "Crown_01",
+                "category": "01_Symbol",
+                "id": 16000012,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nova l Tico\u2122",
+        "tag": "Y2RCCJ8C",
+        "rank": 129,
+        "previousRank": 108,
+        "expLevel": 13,
+        "trophies": 5755,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "RVL2PQQ",
+            "name": "Nova l \u5927\u5510\u5929\u5b50",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Andres",
+        "tag": "LJJY0YCU",
+        "rank": 130,
+        "previousRank": 132,
+        "expLevel": 13,
+        "trophies": 5755,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P09P280Y",
+            "name": "Star Alliance\u2122",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Jerem",
+        "tag": "2YPV0U0CG",
+        "rank": 131,
+        "previousRank": 188,
+        "expLevel": 13,
+        "trophies": 5754,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8V00U2RJ",
+            "name": "Star Alliance",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Mr\u2605NeverDie",
+        "tag": "2PLPV892",
+        "rank": 132,
+        "previousRank": 112,
+        "expLevel": 13,
+        "trophies": 5753,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2JU290L9",
+            "name": "\u5834\u5167\u91ce\u8c6c\u6416\u6efe\u5340",
+            "badge": {
+                "name": "A_Char_Hammer_02",
+                "category": "03_Royale",
+                "id": 16000165,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Will",
+        "tag": "LQU0PY2V",
+        "rank": 133,
+        "previousRank": 114,
+        "expLevel": 13,
+        "trophies": 5749,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "zetko.bRoCk",
+        "tag": "2VPUJCGP",
+        "rank": 134,
+        "previousRank": 126,
+        "expLevel": 13,
+        "trophies": 5748,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8P0UQPPU",
+            "name": "Zetko eSports",
+            "badge": {
+                "name": "Crown_01",
+                "category": "01_Symbol",
+                "id": 16000012,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u3072\u30fc\u308d",
+        "tag": "GLJG2QY8",
+        "rank": 135,
+        "previousRank": 225,
+        "expLevel": 13,
+        "trophies": 5747,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QY9JG09",
+            "name": "QLASH Sentry",
+            "badge": {
+                "name": "Diamond_Star_01",
+                "category": "01_Symbol",
+                "id": 16000020,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u041c\u0430\u0440\u0443\u0441\u0438\u043a",
+        "tag": "VUR2Q88U",
+        "rank": 136,
+        "previousRank": 640,
+        "expLevel": 13,
+        "trophies": 5746,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2V0QU2QC",
+            "name": "Parabellum",
+            "badge": {
+                "name": "Sword_04",
+                "category": "01_Symbol",
+                "id": 16000007,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Angelababy",
+        "tag": "8YQYV9VY",
+        "rank": 137,
+        "previousRank": 119,
+        "expLevel": 13,
+        "trophies": 5741,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9JQC2VUU",
+            "name": "Nova l USA",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u30de\u30df\u30fc",
+        "tag": "YG28U9CG",
+        "rank": 138,
+        "previousRank": 176,
+        "expLevel": 13,
+        "trophies": 5741,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "V0U",
+            "name": "\u30b8\u30a7\u30f3\u30b3\u30fb\u30aa\u30ea\u30fc\u30d6\u5546\u4f1a",
+            "badge": {
+                "name": "flag_c_03",
+                "category": "02_Flag",
+                "id": 16000054,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Haifischj\u00e4ger2",
+        "tag": "PYP2GGL8",
+        "rank": 139,
+        "previousRank": 477,
+        "expLevel": 13,
+        "trophies": 5737,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8UVGQ8UQ",
+            "name": "Head of B\u00fcschel",
+            "badge": {
+                "name": "Lotus_01",
+                "category": "01_Symbol",
+                "id": 16000142,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Lotus_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u306f\u3058\u3081\u3057\u3083\u3061\u3087\u30fc",
+        "tag": "GVGGGPJP",
+        "rank": 140,
+        "previousRank": 540,
+        "expLevel": 13,
+        "trophies": 5735,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "GUQU9YJ",
+            "name": "No Respect",
+            "badge": {
+                "name": "Sword_02",
+                "category": "01_Symbol",
+                "id": 16000005,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Sword_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u0f3a\u0fc5\u0f3cPrinzPain\u0f3d\u0fc5\u0f3b",
+        "tag": "PJVLGLRQ",
+        "rank": 141,
+        "previousRank": 449,
+        "expLevel": 13,
+        "trophies": 5735,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "CYCJJLG",
+            "name": "Nova Turkey",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Dark Light",
+        "tag": "22Y9CGYGQ",
+        "rank": 142,
+        "previousRank": 125,
+        "expLevel": 13,
+        "trophies": 5734,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "TEMIM",
+        "tag": "PYLVGR2G",
+        "rank": 143,
+        "previousRank": 110,
+        "expLevel": 13,
+        "trophies": 5734,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8PCCV9PQ",
+            "name": "Sandstorm Arb",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "DDaB0ngTV",
+        "tag": "2U92QLL2J",
+        "rank": 144,
+        "previousRank": 178,
+        "expLevel": 13,
+        "trophies": 5732,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "228YYL99",
+            "name": "AllinForce",
+            "badge": {
+                "name": "Arrow_02",
+                "category": "01_Symbol",
+                "id": 16000017,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Arrow_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "M\u00e1rcio",
+        "tag": "9YQ9LVG",
+        "rank": 145,
+        "previousRank": 199,
+        "expLevel": 13,
+        "trophies": 5732,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "JVRPGV8",
+            "name": "Nova l Brazil",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\uc758\ucc2c",
+        "tag": "PRR9980C",
+        "rank": 146,
+        "previousRank": 273,
+        "expLevel": 13,
+        "trophies": 5732,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P208YVP8",
+            "name": "\ube68\ub9dd\ucc28vsGAME AMIGO",
+            "badge": {
+                "name": "Diamond_03",
+                "category": "01_Symbol",
+                "id": 16000047,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nova l Bochum\u2122",
+        "tag": "Q9Y0PULU",
+        "rank": 147,
+        "previousRank": 81,
+        "expLevel": 13,
+        "trophies": 5731,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "MidFinger",
+        "tag": "9RC8YU08J",
+        "rank": 148,
+        "previousRank": 127,
+        "expLevel": 12,
+        "trophies": 5730,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9LYQPVQV",
+            "name": "SandStorm UAE",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Hazard\u2122",
+        "tag": "8LC88VLG",
+        "rank": 149,
+        "previousRank": 96,
+        "expLevel": 13,
+        "trophies": 5730,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9VCYRQUL",
+            "name": "50 Raja\u2019s",
+            "badge": {
+                "name": "A_Char_King_04",
+                "category": "03_Royale",
+                "id": 16000147,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Qatar Scythe\u2122",
+        "tag": "C8Q9JYC",
+        "rank": 150,
+        "previousRank": 215,
+        "expLevel": 13,
+        "trophies": 5726,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8YGRJ8GG",
+            "name": "Nova I Iran",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u306a\u3064\u307f\u304b\u3093",
+        "tag": "PQGQVPRJ",
+        "rank": 151,
+        "previousRank": 66,
+        "expLevel": 13,
+        "trophies": 5726,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8UUGRC",
+            "name": "Let's go 6000",
+            "badge": {
+                "name": "Skull_02",
+                "category": "01_Symbol",
+                "id": 16000025,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Caroling",
+        "tag": "PCJC988U",
+        "rank": 152,
+        "previousRank": 166,
+        "expLevel": 13,
+        "trophies": 5725,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8G9VY92",
+            "name": "\u4e0a\u6d77 OP Elite",
+            "badge": {
+                "name": "Flame_01",
+                "category": "01_Symbol",
+                "id": 16000000,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "bag\u54e6\u8fc7",
+        "tag": "RCYLPC",
+        "rank": 153,
+        "previousRank": 41,
+        "expLevel": 13,
+        "trophies": 5720,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "988Y89PY",
+            "name": "Sandstorm Pro",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "#Maroo",
+        "tag": "YLVY88G0",
+        "rank": 154,
+        "previousRank": 123,
+        "expLevel": 13,
+        "trophies": 5719,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9L0UYCLV",
+            "name": "GLORY MAKERS",
+            "badge": {
+                "name": "Bamboo_04",
+                "category": "01_Symbol",
+                "id": 16000139,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bamboo_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Doraemon",
+        "tag": "P0Q0JQQV",
+        "rank": 155,
+        "previousRank": 134,
+        "expLevel": 13,
+        "trophies": 5718,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RJPCUU",
+            "name": "WHAM! eSports",
+            "badge": {
+                "name": "A_Char_DarkPrince_01",
+                "category": "03_Royale",
+                "id": 16000156,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "True Light",
+        "tag": "GYL8LP0",
+        "rank": 156,
+        "previousRank": 242,
+        "expLevel": 13,
+        "trophies": 5717,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LVRQ29",
+            "name": "Midwinter\u2122",
+            "badge": {
+                "name": "Freeze_01",
+                "category": "01_Symbol",
+                "id": 16000168,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "O K T A Y \u2b50\ufe0f",
+        "tag": "GLUY9RCC",
+        "rank": 157,
+        "previousRank": 137,
+        "expLevel": 13,
+        "trophies": 5716,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RJPCUU",
+            "name": "WHAM! eSports",
+            "badge": {
+                "name": "A_Char_DarkPrince_01",
+                "category": "03_Royale",
+                "id": 16000156,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Gilipollo",
+        "tag": "2C2YR8CP",
+        "rank": 158,
+        "previousRank": 221,
+        "expLevel": 13,
+        "trophies": 5716,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "P09P280Y",
+            "name": "Star Alliance\u2122",
+            "badge": {
+                "name": "Traditional_Star_05",
+                "category": "01_Symbol",
+                "id": 16000040,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Traditional_Star_05.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "omnipotent",
+        "tag": "R0LR9RUQ",
+        "rank": 159,
+        "previousRank": 138,
+        "expLevel": 13,
+        "trophies": 5715,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "28P0QQ9U",
+            "name": "Juggernauts",
+            "badge": {
+                "name": "Flame_04",
+                "category": "01_Symbol",
+                "id": 16000003,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nova I CMcHugh",
+        "tag": "PVL0PCL2",
+        "rank": 160,
+        "previousRank": 140,
+        "expLevel": 13,
+        "trophies": 5713,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9V9CR82Y",
+            "name": "Nova I Russia",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "iDelta Force!",
+        "tag": "U8QGYYY",
+        "rank": 161,
+        "previousRank": 141,
+        "expLevel": 13,
+        "trophies": 5712,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QV99088",
+            "name": "\u2b50Delta Stars\u2b50",
+            "badge": {
+                "name": "A_Char_King_01",
+                "category": "03_Royale",
+                "id": 16000144,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Pietro",
+        "tag": "9U2LLR",
+        "rank": 162,
+        "previousRank": 243,
+        "expLevel": 13,
+        "trophies": 5712,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QY9JG09",
+            "name": "QLASH Sentry",
+            "badge": {
+                "name": "Diamond_Star_01",
+                "category": "01_Symbol",
+                "id": 16000020,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u0f3a\u0fc5\u0f3c\uff34\uff28\uff25 \uff28\uff25\uff2c\uff2c\u0f3d\u0fc5\u0f3b",
+        "tag": "22CR9GJ",
+        "rank": 163,
+        "previousRank": 142,
+        "expLevel": 13,
+        "trophies": 5710,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QY2RU9G",
+            "name": "Sandstorm KSA",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "TMD \u5c0f\u5154\u5b50",
+        "tag": "80Q88GP8",
+        "rank": 164,
+        "previousRank": 144,
+        "expLevel": 13,
+        "trophies": 5709,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "JoMike\u2122",
+        "tag": "8V9PULUQ",
+        "rank": 165,
+        "previousRank": 116,
+        "expLevel": 13,
+        "trophies": 5709,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "WOL RIDER!",
+        "tag": "9GYJ02VG",
+        "rank": 166,
+        "previousRank": 145,
+        "expLevel": 13,
+        "trophies": 5708,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "28PYGPGV",
+            "name": "Legend of Titan",
+            "badge": {
+                "name": "A_Char_Hammer_01",
+                "category": "03_Royale",
+                "id": 16000164,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Hammer_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u76f4\u592a\u6717",
+        "tag": "C2RGGRLY",
+        "rank": 167,
+        "previousRank": 323,
+        "expLevel": 13,
+        "trophies": 5707,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8RJQU9CU",
+            "name": "Deep swamp",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Nova l Dergha\u2122\ufe0f",
+        "tag": "22UYP9Y0",
+        "rank": 168,
+        "previousRank": 59,
+        "expLevel": 13,
+        "trophies": 5707,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "OHH YEAHHH!\u00ae",
+        "tag": "RP0PGQ9V",
+        "rank": 169,
+        "previousRank": 384,
+        "expLevel": 13,
+        "trophies": 5706,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "soha",
+        "tag": "RRYQQY9",
+        "rank": 170,
+        "previousRank": 170,
+        "expLevel": 13,
+        "trophies": 5706,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RVVC82",
+            "name": "HongKong Elite",
+            "badge": {
+                "name": "A_Char_King_03",
+                "category": "03_Royale",
+                "id": 16000146,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_King_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u7121\u8ab2\u91d1\u3084\u308a\u8fbc\u307f\u90e8\u968a",
+        "tag": "2U08UYCRP",
+        "rank": 171,
+        "previousRank": 376,
+        "expLevel": 13,
+        "trophies": 5705,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8CL2Y2",
+            "name": "TSP\u7df4\u7fd2\u5834",
+            "badge": {
+                "name": "flag_n_04",
+                "category": "02_Flag",
+                "id": 16000093,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_n_04.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u0f04\u0f3a\u715e\u0f12\u83ab\u0f3b\u0f04",
+        "tag": "98P2C9YV",
+        "rank": 172,
+        "previousRank": 146,
+        "expLevel": 13,
+        "trophies": 5704,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8G9VY92",
+            "name": "\u4e0a\u6d77 OP Elite",
+            "badge": {
+                "name": "Flame_01",
+                "category": "01_Symbol",
+                "id": 16000000,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u300c \u1d47\u1d38\u1d58\u1d3f\u1d3f\u1d5e\u300d",
+        "tag": "L8P0GVQV",
+        "rank": 173,
+        "previousRank": 51,
+        "expLevel": 13,
+        "trophies": 5704,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "V9GRG98",
+            "name": "Aura Gaming",
+            "badge": {
+                "name": "Diamond_Star_01",
+                "category": "01_Symbol",
+                "id": 16000020,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Diamond_Star_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Fernando",
+        "tag": "LVLGJQ2",
+        "rank": 174,
+        "previousRank": 148,
+        "expLevel": 13,
+        "trophies": 5703,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "988Y89PY",
+            "name": "Sandstorm Pro",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "lo\u2605\u9df2\u5c3e\u4f36\u83dc\u2605ve",
+        "tag": "2L9QLRGY2",
+        "rank": 175,
+        "previousRank": 495,
+        "expLevel": 13,
+        "trophies": 5703,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "29LQ0VP",
+            "name": "YUNTON",
+            "badge": {
+                "name": "Crown_02",
+                "category": "01_Symbol",
+                "id": 16000013,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Crown_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "soul uae",
+        "tag": "2URUPJQV",
+        "rank": 176,
+        "previousRank": 305,
+        "expLevel": 13,
+        "trophies": 5702,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9VR2CVJQ",
+            "name": "GulfNation\u2122\ufe0f",
+            "badge": {
+                "name": "Star_Shine_02",
+                "category": "01_Symbol",
+                "id": 16000043,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "ikka",
+        "tag": "9YVLUC8",
+        "rank": 177,
+        "previousRank": 167,
+        "expLevel": 13,
+        "trophies": 5702,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Pipsqueak",
+        "tag": "YC8PG0R",
+        "rank": 178,
+        "previousRank": 150,
+        "expLevel": 13,
+        "trophies": 5701,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9V9CR82Y",
+            "name": "Nova I Russia",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "R\u00fczgar",
+        "tag": "9YLPQPVJ",
+        "rank": 179,
+        "previousRank": 177,
+        "expLevel": 13,
+        "trophies": 5699,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8VRJC2V2",
+            "name": "\u98ce\u66b4",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "koo",
+        "tag": "YQCL09GR",
+        "rank": 180,
+        "previousRank": 1119,
+        "expLevel": 13,
+        "trophies": 5699,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9GJ89V",
+            "name": "\u30a6\u30a8\u30b9\u30c898cm\u306e\u4f1a",
+            "badge": {
+                "name": "Gem_03",
+                "category": "03_Royale",
+                "id": 16000100,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Gem_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "alexthekiller_1",
+        "tag": "98JVR8RG",
+        "rank": 181,
+        "previousRank": 155,
+        "expLevel": 13,
+        "trophies": 5696,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90R9VPP9",
+            "name": "North Rebellion",
+            "badge": {
+                "name": "Freeze_02",
+                "category": "01_Symbol",
+                "id": 16000169,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "megha",
+        "tag": "2J0PY9V2G",
+        "rank": 182,
+        "previousRank": 156,
+        "expLevel": 13,
+        "trophies": 5694,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8GUJ9J8G",
+            "name": "Omega\u2122ITLegends",
+            "badge": {
+                "name": "Star_Shine_01",
+                "category": "01_Symbol",
+                "id": 16000042,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "CMaida",
+        "tag": "YGR8J2V",
+        "rank": 183,
+        "previousRank": 158,
+        "expLevel": 13,
+        "trophies": 5693,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "GYP90PL",
+            "name": "MEGA EMPIRE",
+            "badge": {
+                "name": "Flame_02",
+                "category": "01_Symbol",
+                "id": 16000001,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "kyrios",
+        "tag": "828RJP889",
+        "rank": 184,
+        "previousRank": 90,
+        "expLevel": 13,
+        "trophies": 5693,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9Q8PYRLL",
+            "name": "Nova Esports",
+            "badge": {
+                "name": "Star_Shine_03",
+                "category": "01_Symbol",
+                "id": 16000044,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Star_Shine_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Bat Ivko",
+        "tag": "UL0JU92V",
+        "rank": 185,
+        "previousRank": 121,
+        "expLevel": 13,
+        "trophies": 5693,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8QQUCUQY",
+            "name": "BulgarianGang\u2122",
+            "badge": {
+                "name": "Skull_03",
+                "category": "01_Symbol",
+                "id": 16000026,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Skull_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "nhim",
+        "tag": "QUCVJ8R",
+        "rank": 186,
+        "previousRank": 160,
+        "expLevel": 13,
+        "trophies": 5690,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90RR0RPQ",
+            "name": "Falcons\u2122",
+            "badge": {
+                "name": "Arrow_02",
+                "category": "01_Symbol",
+                "id": 16000017,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Arrow_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Saunadude",
+        "tag": "2Q8L8YQG",
+        "rank": 187,
+        "previousRank": 161,
+        "expLevel": 13,
+        "trophies": 5690,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "PPPUJ0Q",
+            "name": "Phonecubs",
+            "badge": {
+                "name": "Bolt_01",
+                "category": "01_Symbol",
+                "id": 16000008,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Bolt_01.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Raven",
+        "tag": "889J9G82",
+        "rank": 188,
+        "previousRank": 248,
+        "expLevel": 13,
+        "trophies": 5690,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9QU9298C",
+            "name": "La Resistencia",
+            "badge": {
+                "name": "flag_d_02",
+                "category": "02_Flag",
+                "id": 16000061,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_d_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "net",
+        "tag": "PUGVQ0LG",
+        "rank": 189,
+        "previousRank": 162,
+        "expLevel": 13,
+        "trophies": 5689,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9PRYUPCL",
+            "name": "Team Signify",
+            "badge": {
+                "name": "Arrow_02",
+                "category": "01_Symbol",
+                "id": 16000017,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Arrow_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Surgical Goblin",
+        "tag": "8RJUJGG09",
+        "rank": 190,
+        "previousRank": 48,
+        "expLevel": 13,
+        "trophies": 5689,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2VL990UL",
+            "name": "Sandstorm USA",
+            "badge": {
+                "name": "Twin_Peaks_02",
+                "category": "01_Symbol",
+                "id": 16000097,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Twin_Peaks_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Matthew",
+        "tag": "2QCGV",
+        "rank": 191,
+        "previousRank": 200,
+        "expLevel": 13,
+        "trophies": 5688,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "helge andre",
+        "tag": "9P9J92R",
+        "rank": 192,
+        "previousRank": 165,
+        "expLevel": 13,
+        "trophies": 5682,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "2LRU2J",
+            "name": "Crucible Wrath",
+            "badge": {
+                "name": "Flame_03",
+                "category": "01_Symbol",
+                "id": 16000002,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Flame_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "xX_MeDo_Xx",
+        "tag": "QR2YGRG9",
+        "rank": 193,
+        "previousRank": 281,
+        "expLevel": 13,
+        "trophies": 5682,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "CLRR8GY",
+            "name": "HOMLESS",
+            "badge": {
+                "name": "flag_j_03",
+                "category": "02_Flag",
+                "id": 16000077,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_j_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u26a1\ufe0f\u26a1\ufe0fFlash\u26a1\ufe0f\u26a1\ufe0f",
+        "tag": "V9UUL92",
+        "rank": 194,
+        "previousRank": 249,
+        "expLevel": 13,
+        "trophies": 5680,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "99CQPGUV",
+            "name": "LATAM Knights",
+            "badge": {
+                "name": "A_Char_DarkPrince_02",
+                "category": "03_Royale",
+                "id": 16000157,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_DarkPrince_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "RAD",
+        "tag": "8QRCJQ9Y",
+        "rank": 195,
+        "previousRank": 721,
+        "expLevel": 13,
+        "trophies": 5678,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "V0U",
+            "name": "\u30b8\u30a7\u30f3\u30b3\u30fb\u30aa\u30ea\u30fc\u30d6\u5546\u4f1a",
+            "badge": {
+                "name": "flag_c_03",
+                "category": "02_Flag",
+                "id": 16000054,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "LeBeau",
+        "tag": "QPQJCJYU",
+        "rank": 196,
+        "previousRank": 488,
+        "expLevel": 13,
+        "trophies": 5676,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90R9VPP9",
+            "name": "North Rebellion",
+            "badge": {
+                "name": "Freeze_02",
+                "category": "01_Symbol",
+                "id": 16000169,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u6b27\u6d32\u4eba\u5403\u6211\u4e00\u77db\uffe1",
+        "tag": "Q80R8LGC",
+        "rank": 197,
+        "previousRank": 565,
+        "expLevel": 13,
+        "trophies": 5676,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "90R9VPP9",
+            "name": "North Rebellion",
+            "badge": {
+                "name": "Freeze_02",
+                "category": "01_Symbol",
+                "id": 16000169,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Freeze_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u30ed\u30fc\u30e9",
+        "tag": "9JPRJ9R",
+        "rank": 198,
+        "previousRank": 275,
+        "expLevel": 13,
+        "trophies": 5675,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "V0U",
+            "name": "\u30b8\u30a7\u30f3\u30b3\u30fb\u30aa\u30ea\u30fc\u30d6\u5546\u4f1a",
+            "badge": {
+                "name": "flag_c_03",
+                "category": "02_Flag",
+                "id": 16000054,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/flag_c_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "\u65e0\u654c\u516d",
+        "tag": "UQQCC0JC",
+        "rank": 199,
+        "previousRank": 231,
+        "expLevel": 13,
+        "trophies": 5675,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "9YGURQUL",
+            "name": "Illuminati",
+            "badge": {
+                "name": "Tower_02",
+                "category": "03_Royale",
+                "id": 16000113,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Tower_02.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    },
+    {
+        "name": "Light Pollux YT",
+        "tag": "V89RGV",
+        "rank": 200,
+        "previousRank": 171,
+        "expLevel": 13,
+        "trophies": 5674,
+        "clanChestCrowns": null,
+        "donationsDelta": null,
+        "clan": {
+            "tag": "8Q8R9LQ0",
+            "name": "Bor\u00e9al \u2605 MG",
+            "badge": {
+                "name": "Fugi_03",
+                "category": "01_Symbol",
+                "id": 16000122,
+                "image": "https://royaleapi.github.io/cr-api-assets/badges/Fugi_03.png"
+            }
+        },
+        "arena": {
+            "name": "Master III",
+            "arena": "League 6",
+            "arenaID": 18,
+            "trophyLimit": 5500
+        }
+    }
+]

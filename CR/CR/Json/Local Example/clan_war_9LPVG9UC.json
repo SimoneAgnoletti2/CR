@@ -1,0 +1,161 @@
+{
+    "state": "collectionDay",
+    "collectionEndTime": 1529777292,
+    "clan": {
+        "tag": "9LPVG9UC",
+        "name": "100T Zen",
+        "participants": 20,
+        "battlesPlayed": 56,
+        "wins": 35,
+        "crowns": 0,
+        "warTrophies": 1589,
+        "badge": {
+            "name": "A_Char_Rocket_02",
+            "category": "03_Royale",
+            "id": 16000167,
+            "image": "https://royaleapi.github.io/cr-api-assets/badges/A_Char_Rocket_02.png"
+        }
+    },
+    "participants": [
+        {
+            "tag": "8G0R20VP",
+            "name": "pp",
+            "cardsEarned": 1785,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "2UCRLP0L",
+            "name": "Akash",
+            "cardsEarned": 1680,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "8GP20Q98",
+            "name": "Jupiter",
+            "cardsEarned": 1680,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "YV08P0LY",
+            "name": "Dave",
+            "cardsEarned": 1680,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "J2CYGP8V",
+            "name": "Mystic",
+            "cardsEarned": 1680,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "QQJP28JQ",
+            "name": "Rob^BledShot#2",
+            "cardsEarned": 1470,
+            "battlesPlayed": 3,
+            "wins": 3
+        },
+        {
+            "tag": "8CPCC0P0",
+            "name": "Triplet",
+            "cardsEarned": 1400,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2P8PU2GRG",
+            "name": "Z\u00f4i",
+            "cardsEarned": 1400,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2YR8QQP2R",
+            "name": "Justin Beaver",
+            "cardsEarned": 1312,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "2Y8RQPR20",
+            "name": "vin",
+            "cardsEarned": 1225,
+            "battlesPlayed": 3,
+            "wins": 2
+        },
+        {
+            "tag": "98JUYJPR",
+            "name": "Popcorn",
+            "cardsEarned": 1189,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "9PV8PR",
+            "name": "Admiral Skoots",
+            "cardsEarned": 1120,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "VP02RV28",
+            "name": "nemauen",
+            "cardsEarned": 1120,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "2JU2CQPJ",
+            "name": "westside8",
+            "cardsEarned": 1120,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "GQ2R9UC0",
+            "name": "freek24",
+            "cardsEarned": 1120,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "2CLC90Q0Y",
+            "name": "Aeria",
+            "cardsEarned": 1120,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "R8PR9UCC",
+            "name": "baby vin",
+            "cardsEarned": 1049,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "RP9R88GQ",
+            "name": "dawa",
+            "cardsEarned": 1049,
+            "battlesPlayed": 3,
+            "wins": 1
+        },
+        {
+            "tag": "28C2PL9RJ",
+            "name": "minimungo",
+            "cardsEarned": 490,
+            "battlesPlayed": 1,
+            "wins": 1
+        },
+        {
+            "tag": "JVCRRQVG",
+            "name": "Aman",
+            "cardsEarned": 280,
+            "battlesPlayed": 1,
+            "wins": 0
+        }
+    ]
+}

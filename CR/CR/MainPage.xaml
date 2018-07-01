@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CR"
+             x:Class="CR.MainPage">
+    <ContentPage.Content>
+
+        <ContentView>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".1*" />
+                    <RowDefinition Height=".20*" />
+                    <RowDefinition Height=".20*" />
+                    <RowDefinition Height=".4*" />
+                    <RowDefinition Height=".1*" />
+                </Grid.RowDefinitions>
+
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width=".1*"/>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".4*"/>
+                    <ColumnDefinition Width=".1*"/>
+                </Grid.ColumnDefinitions>
+
+
+                <Button  Grid.Row="1"  Grid.Column="1" Text="Scarica Player" TextColor="White" BackgroundColor="Blue" Command="{Binding RequestPlayer}" ></Button>
+                <Button  Grid.Row="1"  Grid.Column="2" Text="ProgressBar Test" TextColor="White" BackgroundColor="Blue" Command="{Binding GoToTestProgressBar}" ></Button>
+                <Button  Grid.Row="2"  Grid.Column="1" Text="Scarica Battles Player" TextColor="White" BackgroundColor="Blue" Command="{Binding RequestPlayerBattles}" ></Button>
+                <Button  Grid.Row="2"  Grid.Column="2" Text="Sccarica Chests Player" TextColor="White" BackgroundColor="Blue" Command="{Binding RequestPlayerChests}" ></Button>
+                <Editor Grid.Row="3" BackgroundColor="LightYellow" Grid.Column="1"  Grid.ColumnSpan="2" Text="{Binding Player_txt}" FontSize="Small" TextColor="Black" ></Editor>
+
+             </Grid>
+                
+        </ContentView>
+
+
+    </ContentPage.Content>
+</ContentPage>

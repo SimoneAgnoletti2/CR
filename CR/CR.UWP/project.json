@@ -1,0 +1,33 @@
+﻿{
+  "dependencies": {
+    "CommonServiceLocator": "1.3.0",
+    "Corcav.Behaviors": "2.3.7",
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+    "PCLStorage": "1.0.2",
+    "SkiaSharp": "1.59.3",
+    "sqlite-net-pcl": "1.3.1",
+    "SQLite.Net.Async-PCL": "3.1.1",
+    "SQLite.Net.Core-PCL": "3.1.1",
+    "Syncfusion.DocIO.UWP": "16.2.0.41",
+    "Syncfusion.DocIO.UWP46": "16.1.0.26",
+    "Syncfusion.Licensing": "16.2.0.41",
+    "Syncfusion.SfProgressBar.UWP": "16.2.0.41",
+    "Syncfusion.SfProgressBar.UWP46": "16.1.0.26",
+    "Syncfusion.Xamarin.DocIO": "16.2.0.41",
+    "Syncfusion.Xamarin.DocIORenderer": "16.2.0.41",
+    "Syncfusion.Xamarin.Pdf": "16.2.0.41",
+    "Syncfusion.Xamarin.SfProgressBar": "16.2.0.41",
+    "Xamarin.Forms": "2.5.0.122203"
+  },
+  "frameworks": {
+    "uap10.0.10586": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}
