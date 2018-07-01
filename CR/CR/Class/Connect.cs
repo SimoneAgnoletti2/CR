@@ -33,8 +33,6 @@ namespace CR.Class
                 var httpClient = ClientConnectionAsync();
                 HttpResponseMessage response = httpClient.GetAsync(call).Result;
 
-
-
                 if (response.IsSuccessStatusCode)
                 {
                     json = await response.Content.ReadAsStringAsync();
