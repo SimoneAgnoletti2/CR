@@ -62,6 +62,7 @@
     <Compile Include="Class\game\player\PlayerShopOffers.cs" />
     <Compile Include="Class\game\player\PlayerStats.cs" />
     <Compile Include="Class\game\player\SimplifiedPlayer.cs" />
+    <Compile Include="Class\game\Save.cs" />
     <Compile Include="Class\game\tournament\SimplifiedTournament.cs" />
     <Compile Include="Class\game\tournament\Tournament.cs" />
     <Compile Include="Class\Parameter.cs" />

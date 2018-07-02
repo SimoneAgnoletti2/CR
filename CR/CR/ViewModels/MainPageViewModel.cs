@@ -55,102 +55,13 @@ namespace CR.ViewModels
                 {
                     var json_player = JsonConvert.SerializeObject(p);
 
-
-                    IFolder folder = FileSystem.Current.LocalStorage;
-                    String folderName ="player" ;
-                    var checkExistence = await folder.CheckExistsAsync("player");
-
-                    if(checkExistence != ExistenceCheckResult.FolderExists)
-                    {
-                        folder = await folder.CreateFolderAsync(folderName, CreationCollisionOption.ReplaceExisting);
-
-                        String filename = "player_" + p.tag + ".txt";
-                        IFile file3;
-                        var t = await folder.CheckExistsAsync(filename);
-                        if (t == ExistenceCheckResult.FileExists)
-                        {
-                            //file3 = await file3.OpenAsync(filename, CreationCollisionOption.ReplaceExisting);
-                        }
-                        IFile file = await folder.CreateFileAsync(filename, CreationCollisionOption.ReplaceExisting);
-
-                        await file.WriteAllTextAsync(json_player);
-                        var y = await file.ReadAllTextAsync();
-                    }
-                    else
-                    {
-                        folder = await folder.CreateFolderAsync(folderName, CreationCollisionOption.OpenIfExists);
-
-                        String filename = "player_" + p.tag + ".txt";
-                        IFile file3;
-                        var t = await folder.CheckExistsAsync(filename);
-                        if (t == ExistenceCheckResult.FileExists)
-                        {
-                            //file3 = await file3.OpenAsync(filename, CreationCollisionOption.ReplaceExisting);
-                        }
-                        IFile file = await folder.CreateFileAsync(filename, CreationCollisionOption.ReplaceExisting);
-
-                        await file.WriteAllTextAsync(json_player);
-                        var y = await file.ReadAllTextAsync();
-                    }
-
-                    
-
-                    
-                    
-
-
-
-
-
-
-
-
-                    IFolder folder2 = FileSystem.Current.LocalStorage;
-                    String folderName2 = "player";
-                    var checkExistence2 = await folder2.CheckExistsAsync("player");
-
-                    if (checkExistence2 != ExistenceCheckResult.FolderExists)
-                    {
-                        folder2 = await folder2.CreateFolderAsync(folderName2, CreationCollisionOption.ReplaceExisting);
-                    }
-                    else
-                    {
-                        folder2 = await folder2.CreateFolderAsync(folderName2, CreationCollisionOption.OpenIfExists);
-
-                        String filename2 = "player_" + p.tag + ".txt";
-
-                        
-                        IFile file2 = await folder2.CreateFileAsync(filename2, CreationCollisionOption.OpenIfExists);
-
-                        var x = await file2.ReadAllTextAsync();
-                        string ciao = x;
-                    }
-                    
-
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    //await Xamarin.Forms.DependencyService.Get<ISave>().Save("prova.json", "application/json", ms);
-
-
-                    //var x = await Xamarin.Forms.DependencyService.Get<IRead>().Read("prova.json");
+                    Save save = new Save();
+                    var presente = await save.CheckFile("player", "player_" + p.tag + ".txt", json_player);
+                    var contenuto_attuale = await save.ReadFile("player", "player_" + p.tag + ".txt", json_player);
+                    var risultato_scrittura =await save.WriteFile("player", "player_" + p.tag + ".txt", json_player);
+                    Player_txt = json_player.ToString();
                 }
 
-                Player_txt = player.ToString();
             });
             RequestPlayerBattles = new Command( () =>
             {
