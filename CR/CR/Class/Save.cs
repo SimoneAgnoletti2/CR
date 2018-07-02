@@ -4,11 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CR.Class.game;
-
-namespace CR.Class.game
+namespace CR.Class
 {
-    public class Write
+    public class Save
     {
         public async Task<string> WriteFile(string foldername, string filename, string json)
         {
@@ -52,10 +50,7 @@ namespace CR.Class.game
                 return ex.Message.ToString();
             }
         }
-    }
 
-    public class Read
-    {
         public async Task<string> ReadFile(string foldername, string filename, string json)
         {
             try
@@ -75,7 +70,7 @@ namespace CR.Class.game
                     if (t == ExistenceCheckResult.FileExists)
                     {
                         IFile file = await folder.CreateFileAsync(filename, CreationCollisionOption.OpenIfExists);
-                        
+
                         var y = await file.ReadAllTextAsync();
                         return y;
                     }
@@ -83,7 +78,7 @@ namespace CR.Class.game
                     {
                         return "KO";
                     }
-                    
+
                 }
             }
             catch (Exception ex)
@@ -91,11 +86,8 @@ namespace CR.Class.game
                 return ex.Message.ToString();
             }
         }
-    }
 
-    public class Check
-    {
-        public async Task<string> ReadFile(string foldername, string filename, string json)
+        public async Task<string> CheckFile(string foldername, string filename, string json)
         {
             try
             {
@@ -128,4 +120,5 @@ namespace CR.Class.game
             }
         }
     }
+    
 }
